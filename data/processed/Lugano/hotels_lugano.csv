@@ -1,43 +1,41 @@
 name,category,city,address,website,phone,email,price,n_reviews
-Hostel Montarina,Hotel,"Lugano, Suiza","Via Montarina 1, 6900 Lugano, Suiza",montarina.ch,+41 91 966 72 72,info@montarina.com,83,483
-Hotel Pestalozzi,Hotel,"Lugano, Suiza","Piazza Dell Indipendenza 9, 6900 Lugano, Suiza",pestalozzi-lugano.ch,+41 91 921 46 46,info@pestalozzi-lugano.ch,138,793
-Hotel Splendide Royal Lugano,Hotel de 5 estrellas de lujo junto al lago con restaurante,"Lugano, Suiza","Riva Antonio Caccia 7, 6900 Lugano, Suiza",splendide.ch,+41 91 985 77 11,hr@splendide.ch,539,1204
-Continental Parkhotel Lugano,Hotel,"Lugano, Suiza","Via Basilea 28, 6900 Lugano, Suiza",continentalparkhotel.com,+41 91 966 11 12,info@continentalparkhotel.com,199,781
-International au Lac Historic Lakeside Hotel,Hotel de 3 estrellas,"Lugano, Suiza","Via Nassa 68, 6900 Lugano, Suiza",hotel-international.ch,+41 91 922 75 41,info@hotel-international.ch,302,585
-Hotel Admiral,Hotel de 4 estrellas moderno con piscina en la azotea,"Lugano, Suiza","Via Geretta 15, 6900 Lugano, Suiza",luganohoteladmiral.com,+41 91 986 38 38,info@luganohoteladmiral.ch,194,1314
-Hotel Colorado Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",colorado.ch,+41 91 994 16 31,hotel@colorado.ch,177,281
-Swiss Diamond Hotel Lugano,Hotel de 5 estrellas elegante con spa y 3 restaurantes,"Vico Morcote, Suiza","Riva lago Olivella 29, 6921 Vico Morcote, Suiza",swissdiamondhotel.com,+41 91 735 00 00,info@swissdiamondhotel.com,348,1006
-Hotel Victoria au Lac,Hotel de 3 estrellas,"Paradiso, Suiza","Via Generale Guisan 3, 6900 Paradiso, Suiza",victoriahotel.ch,+41 91 994 20 31,info@victoriahotel.ch,182,598
-Hotel Dischma,Hotel,"Paradiso, Suiza","Vicolo Geretta 6, 6900 Paradiso, Suiza",hotel-dischma-lugano.ch,+41 91 994 21 31,info@hotel-dischma-lugano.ch,100,444
-Hotel Walter Au Lac,Hotel de 3 estrellas,"Lugano, Suiza","Piazza Riziero Rezzonico 7, 6900 Lugano, Suiza",walteraulac.ch,+41 91 922 74 25,hotel@walteraulac.ch,269,449
-Grand Hotel Campione,Hotel de 5 estrellas,"Campione d'Italia, Como, Italia",NO_ADDRESS,ghcampione.com,+41 91 649 50 60,info@ghcampione.com,236,258
-LUGANODANTE - We Like You,Hotel de 4 estrellas sofisticado con coctelería,"Lugano, Suiza","Piazza Cioccaro 5, 6900 Lugano, Suiza",luganodante.com,+41 91 910 57 00,info@luganodante.com,283,1011
-Villa Principe Leopoldo,Hotel de 5 estrellas selecto con vistas al lago,"Lugano, Suiza","Via Montalbano 5, 6900 Lugano, Suiza",leopoldohotel.com,+41 91 985 88 55,info@leopoldohotel.com,316,1037
-Hotel Federale Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Via Paolo Regazzoni 8, 6900 Lugano, Suiza",hotel-federale.ch,+41 91 910 08 08,info@hotel-federale.ch,257,724
-"Villa Sassa Hotel, Residence & Spa","Hotel de 4 estrellas con restaurante, piscinas y spa","Lugano, Suiza","Via Tesserete 10, 6900 Lugano, Suiza",villasassa.ch,+41 91 911 41 11,info@villasassa.ch,357,1056
-Best Western Hotel Bellevue au Lac,Hotel de 4 estrellas,"Lugano, Suiza","Riva Antonio Caccia 10, 6900 Lugano, Suiza",hotelbellevue.ch,+41 91 994 33 33,info@hotelbellevue.ch,301,349
-Hotel Delfino Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Hotel Delfino Lugano, Via Cassarinetta 6, 6900 Lugano, Suiza",hoteldelfinolugano.ch,+41 91 985 99 99,info@hoteldelfinolugano.ch,212,860
-Hotel City Lugano,Hotel de 4 estrellas,"Lugano, Suiza","Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",hotelcitylugano.ch,+41 91 222 09 00,city@hotelcitylugano.ch,214,446
-Hotel Campione,Hotel,"Bissone, Suiza","Via Campione 62, 6816 Bissone, Suiza",hotel-campione.ch,+41 91 640 16 16,info@hotel-campione.ch,222,339
-Hotel Acquarello Swiss Quality,Hotel,"Lugano, Suiza","Piazza Cioccaro 9, 6900 Lugano, Suiza",acquarello.ch,+41 91 911 68 68,info@acquarello.ch,174,447
-GuestHouse Lugano Center,Alojamiento de autoservicio,"Lugano, Suiza","Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,info@luganoguesthouse.com,115,614
-Hotel Besso Lugano,Hotel de 2 estrellas urbano con vistas a la montaña,"Lugano, Suiza","Via Besso 24, 6900 Lugano, Suiza",hotelbesso.ch,+41 91 967 23 12,info@hotelbesso.ch,164,334
-Hotel Zurigo Downtown,Hotel de 3 estrellas,"Lugano, Suiza","Corso Enrico Pestalozzi 13, 6900 Lugano, Suiza",hotelzurigo.ch,+41 91 923 43 43,hotelzurigo@horizoncollection.ch,231,263
-Park Hotel Principe - Collina d'Oro,Hotel de 4 estrellas,"Lugano, Suiza","Via Montalbano 19, 6900 Lugano, Suiza",parkhotelprincipe.com,+41 91 985 86 43,info@parkhotelprincipe.com,200,261
-Hotel De La Paix Lugano,Hotel selecto con alta cocina y piscina,"Lugano, Suiza","Via Giuseppe Cattori 18, 6900 Lugano, Suiza",delapaix.ch,+41 91 960 60 60,booking@delapaix.ch,295,1196
-GABBANI HOTEL,Hotel,"Lugano, Suiza","Piazza Cioccaro 1, 6900 Lugano, Suiza",gabbani.com,+41 91 921 34 70,info@hotel-gabbani.ch,256,231
-Bigatt Hotel & Restaurant,Hotel de 3 estrellas tranquilo con restaurante y piscina,"Paradiso, Suiza","Via Carona 41, 6900 Paradiso, Suiza",bigatt.ch,+41 91 985 28 80,reservations@bigatt.ch,266,275
-Hotel Villa Carona,Hotel de 3 estrellas,"Lugano, Suiza","Via Principale 53, 6914 Lugano, Suiza",villacarona.ch,+41 91 649 70 55,info@villacarona.ch,290,154
-B5 Boutique Hotel Lugano,Hotel,"Lugano, Suiza","Via Francesco Borromini 5, 6900 Lugano, Suiza",b5hotel.ch,+41 91 966 33 70,ciao@B5hotel.ch,268,10
-Ristorante Camino,Restaurante · ,"Lugano, Suiza","Via Massago 3, 6977 Ruvigliana, Suiza",rist-camino.ch,+41 91 211 01 50,Info@rist-camino.ch,111,92
-Resort Collina d'Oro,Complejo hotelero,"Collina d'Oro, Suiza","Via Roncone 22, 6927 Collina d'Oro, Suiza",resortcollinadoro.com,+41 91 641 11 11,info@resortcollinadoro.com,395,351
-Bed & Breakfast Regina (Agno),Bed & Breakfast,"Agno, Suiza","Piazza Natale Vicari 15, 6982 Agno, Suiza",stayregina.ch,+41 78 422 85 82,reception@stayregina.ch,127,45
-Grotto Flora B&B,Restaurante · ,"Agra, Collina d'Oro, Suiza","Via Municipio 8, 6927 Agra, Suiza",grottoflora.com,+41 91 994 15 67,grottoflora@hotmail.com,153,337
-Swiss Hotel Apartments - Lugano,Hotel,"Lugano, Suiza","Corso Elvezia 35, 6900 Lugano, Suiza",swisshotelapartments.ch,+41 79 781 99 99,hello@swisshotelapartments.ch,486,44
-Lido Seegarten,Hotel de 4 estrellas,"Lugano, Suiza","Viale Castagnola 22, 6900 Lugano, Suiza",hotellido-lugano.com,+41 91 973 63 63,info@hotellido-lugano.com,0,673
-7 Rooms Grancia - Camere in affitto,Alojamiento en interioresCasa de huéspedes sencilla con Wi-Fi y aparcamiento,"Grancia, Suiza","Via alla Chiesa 6, 6916 Grancia, Suiza",7roomsgrancia.ch,+41 76 595 69 16,info@7roomsgrancia.ch,124,83
-Albergo Gardenia,Hotel de 3 estrellas,"Caslano, Suiza","Via Valle 20, 6987 Caslano, Suiza",garni-gardenia.ch,+41 91 611 82 11,info@garni-gardenia.ch,248,117
-Lugano Apartments,Hotel de larga estancia,"Lugano, Suiza","Via Valletta 1, 6900 Lugano, Suiza",luganoapartments.com,+41 91 601 04 37,info@luganoapartments.com,153,17
-Centro Magliaso,Hotel,"Magliaso, Suiza","Via Bosconi 11, 6983 Magliaso, Suiza",centro-magliaso.ch,+41 91 606 14 41,willkommen@centro-magliaso.ch,223,206
-Hotel Vezia,Hotel de 3 estrellas,"Vezia, Suiza","Via S. Gottardo 32, 6943 Vezia, Suiza",hotelvezia.ch,+41 91 966 36 31,info@hotelvezia.ch,169,422
-Ristorante le bucce di Gandria,Restaurante · Abre pronto ⋅ 19:00,NO_CITY,"Via Cantonale, 6978 Lugano, Suiza",lebucce.com,+41 91 225 88 33,lebuccemv@gmail.com,138,222
+Hostel Montarina,Hotel,"Lugano, Suiza","Via Montarina 1, 6900 Lugano, Suiza",montarina.ch,+41 91 966 72 72,info@montarina.com,81,487
+Hotel Splendide Royal Lugano,Hotel de 5 estrellas de lujo junto al lago con restaurante,"Lugano, Suiza","Riva Antonio Caccia 7, 6900 Lugano, Suiza",splendide.ch,+41 91 985 77 11,hr@splendide.ch,471,1210
+Hotel Pestalozzi,Hotel,"Lugano, Suiza","Piazza Dell Indipendenza 9, 6900 Lugano, Suiza",pestalozzi-lugano.ch,+41 91 921 46 46,info@pestalozzi-lugano.ch,137,804
+Hotel Admiral,Hotel de 4 estrellas moderno con piscina en la azotea,"Lugano, Suiza","Via Geretta 15, 6900 Lugano, Suiza",luganohoteladmiral.com,+41 91 986 38 38,info@luganohoteladmiral.ch,166,1322
+Continental Parkhotel Lugano,Hotel,"Lugano, Suiza","Via Basilea 28, 6900 Lugano, Suiza",continentalparkhotel.com,+41 91 966 11 12,info@continentalparkhotel.com,212,782
+International au Lac Historic Lakeside Hotel,Hotel de 3 estrellas,"Lugano, Suiza","Via Nassa 68, 6900 Lugano, Suiza",hotel-international.ch,+41 91 922 75 41,info@hotel-international.ch,288,589
+Villa Principe Leopoldo,Hotel de 5 estrellas selecto con vistas al lago,"Lugano, Suiza","Via Montalbano 5, 6900 Lugano, Suiza",leopoldohotel.com,+41 91 985 88 55,info@leopoldohotel.com,279,1040
+Hotel Federale Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Via Paolo Regazzoni 8, 6900 Lugano, Suiza",hotel-federale.ch,+41 91 910 08 08,info@hotel-federale.ch,217,728
+Hotel Victoria au Lac,Hotel de 3 estrellas,"Paradiso, Suiza","Via Generale Guisan 3, 6900 Paradiso, Suiza",victoriahotel.ch,+41 91 994 20 31,info@victoriahotel.ch,182,601
+Hotel Firenze Lugano,Hotel,"Lugano, Suiza","Str. di Gandria 1, 6976 Lugano, Suiza",ristorantefirenze.ch,+41 91 224 62 33,20firenze.castagnola@gmail.com,109,243
+Grand Hotel Campione,Hotel de 5 estrellas,"Campione d'Italia, Como, Italia",NO_ADDRESS,ghcampione.com,+41 91 649 50 60,info@ghcampione.com,233,261
+Hotel Colorado Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",colorado.ch,+41 91 994 16 31,hotel@colorado.ch,185,283
+Hotel Delfino Lugano,Hotel de 3 estrellas,"Lugano, Suiza","Hotel Delfino Lugano, Via Cassarinetta 6, 6900 Lugano, Suiza",hoteldelfinolugano.ch,+41 91 985 99 99,info@hoteldelfinolugano.ch,168,865
+Swiss Diamond Hotel Lugano,Hotel de 5 estrellas elegante con spa y 3 restaurantes,"Vico Morcote, Suiza","Riva lago Olivella 29, 6921 Vico Morcote, Suiza",swissdiamondhotel.com,+41 91 735 00 00,info@swissdiamondhotel.com,425,1021
+LUGANODANTE - We Like You,Hotel de 4 estrellas sofisticado con coctelería,"Lugano, Suiza","Piazza Cioccaro 5, 6900 Lugano, Suiza",luganodante.com,+41 91 910 57 00,info@luganodante.com,286,1012
+Lido Seegarten,Hotel de 4 estrellas,"Lugano, Suiza","Viale Castagnola 22, 6900 Lugano, Suiza",hotellido-lugano.com,+41 91 973 63 63,info@hotellido-lugano.com,472,675
+Best Western Hotel Bellevue au Lac,Hotel de 4 estrellas,"Lugano, Suiza","Riva Antonio Caccia 10, 6900 Lugano, Suiza",hotelbellevue.ch,+41 91 994 33 33,info@hotelbellevue.ch,277,353
+Hotel Walter Au Lac,Hotel de 3 estrellas,"Lugano, Suiza","Piazza Riziero Rezzonico 7, 6900 Lugano, Suiza",walteraulac.ch,+41 91 922 74 25,hotel@walteraulac.ch,353,451
+Hotel Dischma,Hotel,"Paradiso, Suiza","Vicolo Geretta 6, 6900 Paradiso, Suiza",hotel-dischma-lugano.ch,+41 91 994 21 31,info@hotel-dischma-lugano.ch,105,447
+Hotel City Lugano,Hotel de 4 estrellas,"Lugano, Suiza","Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",hotelcitylugano.ch,+41 91 222 09 00,city@hotelcitylugano.ch,213,448
+GuestHouse Lugano Center,Alojamiento de autoservicio,"Lugano, Suiza","Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,info@luganoguesthouse.com,98,617
+Locanda Gandriese,Restaurante · ,"Lugano, Suiza","Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,info@luganoguesthouse.com,98,522
+Hotel De La Paix Lugano,Hotel selecto con alta cocina y piscina,"Lugano, Suiza","Via Giuseppe Cattori 18, 6900 Lugano, Suiza",delapaix.ch,+41 91 960 60 60,booking@delapaix.ch,222,1203
+Hotel Acquarello Swiss Quality,Hotel,"Lugano, Suiza","Piazza Cioccaro 9, 6900 Lugano, Suiza",acquarello.ch,+41 91 911 68 68,info@acquarello.ch,169,451
+Hotel Zurigo Downtown,Hotel de 3 estrellas,"Lugano, Suiza","Corso Enrico Pestalozzi 13, 6900 Lugano, Suiza",hotelzurigo.ch,+41 91 923 43 43,hotelzurigo@horizoncollection.ch,225,263
+Hotel Besso Lugano,Hotel de 2 estrellas urbano con vistas a la montaña,"Lugano, Suiza","Via Besso 24, 6900 Lugano, Suiza",hotelbesso.ch,+41 91 967 23 12,info@hotelbesso.ch,162,338
+Park Hotel Principe - Collina d'Oro,Hotel de 4 estrellas,"Lugano, Suiza","Via Montalbano 19, 6900 Lugano, Suiza",parkhotelprincipe.com,+41 91 985 86 43,info@parkhotelprincipe.com,191,262
+Bigatt Hotel & Restaurant,Hotel de 3 estrellas tranquilo con restaurante y piscina,"Paradiso, Suiza","Via Carona 41, 6900 Paradiso, Suiza",bigatt.ch,+41 91 985 28 80,reservations@bigatt.ch,255,276
+GABBANI HOTEL,Hotel,"Lugano, Suiza","Piazza Cioccaro 1, 6900 Lugano, Suiza",gabbani.com,+41 91 921 34 70,info@hotel-gabbani.ch,254,231
+Atlantico Hôtel garni,Hotel de 3 estrellas,"Lugano, Suiza","Via Concordia 12, 6900 Lugano, Suiza",atlantico-lugano.ch,+41 91 971 29 21,info@atlantico-lugano.ch,230,207
+Al Boccalino,Hotel,"Melide, Suiza","Via Francesco Borromini 27, 6815 Melide, Suiza",alboccalino.ch,+41 91 649 77 67,boccalino@alboccalino.ch,146,160
+Hotel Villa Carona,Hotel de 3 estrellas,"Lugano, Suiza","Via Principale 53, 6914 Lugano, Suiza",villacarona.ch,+41 91 649 70 55,info@villacarona.ch,286,155
+B5 Boutique Hotel Lugano,Hotel,"Lugano, Suiza","Via Francesco Borromini 5, 6900 Lugano, Suiza",b5hotel.ch,+41 91 966 33 70,ciao@B5hotel.ch,247,13
+Resort Collina d'Oro,Complejo hotelero,"Collina d'Oro, Suiza","Via Roncone 22, 6927 Collina d'Oro, Suiza",resortcollinadoro.com,+41 91 641 11 11,info@resortcollinadoro.com,372,353
+Swiss Hotel Apartments - Lugano,Hotel,"Lugano, Suiza","Corso Elvezia 35, 6900 Lugano, Suiza",swisshotelapartments.ch,+41 79 781 99 99,hello@swisshotelapartments.ch,425,45
+Bed & Breakfast Regina (Agno),Bed & Breakfast,"Agno, Suiza","Piazza Natale Vicari 15, 6982 Agno, Suiza",stayregina.ch,+41 78 422 85 82,reception@stayregina.ch,145,46
+Albergo Gardenia,Hotel de 3 estrellas,"Caslano, Suiza","Via Valle 20, 6987 Caslano, Suiza",garni-gardenia.ch,+41 91 611 82 11,info@garni-gardenia.ch,236,118
+Lugano Apartments,Hotel de larga estancia,"Lugano, Suiza","Via Valletta 1, 6900 Lugano, Suiza",luganoapartments.com,+41 91 601 04 37,info@luganoapartments.com,132,17
+7 Rooms Grancia - Camere in affitto,Alojamiento en interioresCasa de huéspedes sencilla con Wi-Fi y aparcamiento,"Grancia, Suiza","Via alla Chiesa 6, 6916 Grancia, Suiza",7roomsgrancia.ch,+41 76 595 69 16,info@7roomsgrancia.ch,123,83
+Hotel Vezia,Hotel de 3 estrellas,"Vezia, Suiza","Via S. Gottardo 32, 6943 Vezia, Suiza",hotelvezia.ch,+41 91 966 36 31,info@hotelvezia.ch,147,426
