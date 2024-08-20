@@ -43,9 +43,9 @@ To scrape and clean hotel data for a specific city, run the following command:
     node main.js "Hotels in [City]"
     ```
 
-Replace "[City]" with the name of the city you want to scrape hotel data for. For example, to scrape hotel data for New York City, run:
+Replace "[City]" with the name of the city you want to scrape hotel data for (must be a non compound name). For example, to scrape hotel data for Zurich, run:
     ```
-    node main.js "Hotels in New York City"
+    node main.js "Hotels in Zurich"
     ```
 
 #### How It Works
