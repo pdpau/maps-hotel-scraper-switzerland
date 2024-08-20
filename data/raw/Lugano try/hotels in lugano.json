@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Hotel San Carlo",
+    "category": "Hotel",
+    "n_reviews": "314",
+    "address": "Via Nassa 28, 6900 Lugano, Suiza",
+    "website": "hotelsancarlolugano.ch",
+    "phone": "+41 91 922 71 07",
+    "city": "Lugano, Suiza",
+    "price": "134€"
+  },
+  {
+    "name": "Hostel Montarina",
+    "category": "Hotel",
+    "n_reviews": "483",
+    "address": "Via Montarina 1, 6900 Lugano, Suiza",
+    "website": "montarina.ch",
+    "phone": "+41 91 966 72 72",
+    "city": "Lugano, Suiza",
+    "price": "84€"
+  },
+  {
+    "name": "Hotel Pestalozzi",
+    "category": "Hotel",
+    "n_reviews": "792",
+    "address": "Piazza Dell Indipendenza 9, 6900 Lugano, Suiza",
+    "website": "pestalozzi-lugano.ch",
+    "phone": "+41 91 921 46 46",
+    "city": "Lugano, Suiza",
+    "price": "138€"
+  },
+  {
+    "name": "Hotel Splendide Royal Lugano",
+    "category": "Hotel de 5 estrellas de lujo junto al lago con restaurante",
+    "n_reviews": "1.204",
+    "address": "Riva Antonio Caccia 7, 6900 Lugano, Suiza",
+    "website": "splendide.ch",
+    "phone": "+41 91 985 77 11",
+    "city": "Lugano, Suiza",
+    "price": "539€"
+  },
+  {
+    "name": "International au Lac Historic Lakeside Hotel",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "584",
+    "address": "Via Nassa 68, 6900 Lugano, Suiza",
+    "website": "hotel-international.ch",
+    "phone": "+41 91 922 75 41",
+    "city": "Lugano, Suiza",
+    "price": "308€"
+  },
+  {
+    "name": "Hotel Admiral",
+    "category": "Hotel de 4 estrellas moderno con piscina en la azotea",
+    "n_reviews": "1.314",
+    "address": "Via Geretta 15, 6900 Lugano, Suiza",
+    "website": "luganohoteladmiral.com",
+    "phone": "+41 91 986 38 38",
+    "city": "Lugano, Suiza",
+    "price": "195€"
+  },
+  {
+    "name": "ibis budget Lugano Paradiso",
+    "category": "Hotel con habitaciones luminosas",
+    "n_reviews": "552",
+    "address": "Via Geretta 10, 6900 Paradiso, Suiza",
+    "website": "all.accor.com",
+    "phone": "+41 91 986 19 29",
+    "city": "NO_CITY",
+    "price": "148€"
+  },
+  {
+    "name": "Continental Parkhotel Lugano",
+    "category": "Hotel",
+    "n_reviews": "780",
+    "address": "Via Basilea 28, 6900 Lugano, Suiza",
+    "website": "continentalparkhotel.com",
+    "phone": "+41 91 966 11 12",
+    "city": "Lugano, Suiza",
+    "price": "272€"
+  },
+  {
+    "name": "Hotel Colorado Lugano",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "281",
+    "address": "Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",
+    "website": "colorado.ch",
+    "phone": "+41 91 994 16 31",
+    "city": "Lugano, Suiza",
+    "price": "177€"
+  },
+  {
+    "name": "Hotel Victoria au Lac",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "598",
+    "address": "Via Generale Guisan 3, 6900 Paradiso, Suiza",
+    "website": "victoriahotel.ch",
+    "phone": "+41 91 994 20 31",
+    "city": "Paradiso, Suiza",
+    "price": "184€"
+  },
+  {
+    "name": "Hotel Dischma",
+    "category": "Hotel",
+    "n_reviews": "444",
+    "address": "Vicolo Geretta 6, 6900 Paradiso, Suiza",
+    "website": "hotel-dischma-lugano.ch",
+    "phone": "+41 91 994 21 31",
+    "city": "Paradiso, Suiza",
+    "price": "101€"
+  },
+  {
+    "name": "Grand Hotel Campione",
+    "category": "Hotel de 5 estrellas",
+    "n_reviews": "257",
+    "address": "NO_ADDRESS",
+    "website": "ghcampione.com",
+    "phone": "+41 91 649 50 60",
+    "city": "Campione d'Italia, Como, Italia",
+    "price": "236€"
+  },
+  {
+    "name": "Hotel Walter Au Lac",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "448",
+    "address": "Piazza Riziero Rezzonico 7, 6900 Lugano, Suiza",
+    "website": "walteraulac.ch",
+    "phone": "+41 91 922 74 25",
+    "city": "Lugano, Suiza",
+    "price": "269€"
+  },
+  {
+    "name": "Swiss Diamond Hotel Lugano",
+    "category": "Hotel de 5 estrellas elegante con spa y 3 restaurantes",
+    "n_reviews": "1.006",
+    "address": "Riva lago Olivella 29, 6921 Vico Morcote, Suiza",
+    "website": "swissdiamondhotel.com",
+    "phone": "+41 91 735 00 00",
+    "city": "Vico Morcote, Suiza",
+    "price": "413€"
+  },
+  {
+    "name": "Novotel Lugano Paradiso",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "877",
+    "address": "Viale S. Salvatore 11, 6900 Paradiso, Suiza",
+    "website": "all.accor.com",
+    "phone": "+41 91 985 09 09",
+    "city": "Paradiso, Suiza",
+    "price": "310€"
+  },
+  {
+    "name": "LUGANODANTE - We Like You",
+    "category": "Hotel de 4 estrellas sofisticado con coctelería",
+    "n_reviews": "1.011",
+    "address": "Piazza Cioccaro 5, 6900 Lugano, Suiza",
+    "website": "luganodante.com",
+    "phone": "+41 91 910 57 00",
+    "city": "Lugano, Suiza",
+    "price": "283€"
+  },
+  {
+    "name": "Hotel Federale Lugano",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "724",
+    "address": "Via Paolo Regazzoni 8, 6900 Lugano, Suiza",
+    "website": "hotel-federale.ch",
+    "phone": "+41 91 910 08 08",
+    "city": "Lugano, Suiza",
+    "price": "257€"
+  },
+  {
+    "name": "Best Western Hotel Bellevue au Lac",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "349",
+    "address": "Riva Antonio Caccia 10, 6900 Lugano, Suiza",
+    "website": "hotelbellevue.ch",
+    "phone": "+41 91 994 33 33",
+    "city": "Lugano, Suiza",
+    "price": "292€"
+  },
+  {
+    "name": "Nassa",
+    "category": "Hotel modesto con vistas al lago",
+    "n_reviews": "343",
+    "address": "Via Nassa 60, 6900 Lugano, Suiza",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "price": "219€"
+  },
+  {
+    "name": "Grand Hotel Villa Castagnola",
+    "category": "Hotel de 5 estrellas",
+    "n_reviews": "708",
+    "address": "Viale Castagnola 31, 6900 Lugano, Suiza",
+    "website": "villacastagnola.com",
+    "phone": "+41 91 973 25 55",
+    "city": "Lugano, Suiza",
+    "price": "502€"
+  },
+  {
+    "name": "Villa Sassa Hotel, Residence & Spa",
+    "category": "Hotel de 4 estrellas con restaurante, piscinas y spa",
+    "n_reviews": "1.056",
+    "address": "Via Tesserete 10, 6900 Lugano, Suiza",
+    "website": "villasassa.ch",
+    "phone": "+41 91 911 41 11",
+    "city": "Lugano, Suiza",
+    "price": "359€"
+  },
+  {
+    "name": "Nassa",
+    "category": "Hotel modesto con vistas al lago",
+    "n_reviews": "343",
+    "address": "Via Nassa 60, 6900 Lugano, Suiza",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "price": "219€"
+  },
+  {
+    "name": "Best Western Hotel Bellevue au Lac",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "349",
+    "address": "Riva Antonio Caccia 10, 6900 Lugano, Suiza",
+    "website": "hotelbellevue.ch",
+    "phone": "+41 91 994 33 33",
+    "city": "Lugano, Suiza",
+    "price": "292€"
+  },
+  {
+    "name": "Lugano Centre Room",
+    "category": "Pensión",
+    "n_reviews": "72",
+    "address": "Via Miravalle 8, 6900 Massagno, Suiza",
+    "website": "NO_WEBSITE",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "price": "80€"
+  },
+  {
+    "name": "Suitenhotel Parco Paradiso",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "916",
+    "address": "Via Carona 27, 6900 Paradiso, Suiza",
+    "website": "parco-paradiso.com",
+    "phone": "+41 91 993 11 11",
+    "city": "Paradiso, Suiza",
+    "price": "317€"
+  },
+  {
+    "name": "Hotel ibis Lugano Paradiso",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "823",
+    "address": "Via Geretta 10A, 6900 Paradiso, Suiza",
+    "website": "all.accor.com",
+    "phone": "+41 91 986 19 09",
+    "city": "NO_CITY",
+    "price": "179€"
+  },
+  {
+    "name": "Hotel Delfino Lugano",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "860",
+    "address": "Hotel Delfino Lugano, Via Cassarinetta 6, 6900 Lugano, Suiza",
+    "website": "hoteldelfinolugano.ch",
+    "phone": "+41 91 985 99 99",
+    "city": "Lugano, Suiza",
+    "price": "240€"
+  },
+  {
+    "name": "Hotel Campione",
+    "category": "Hotel",
+    "n_reviews": "339",
+    "address": "Via Campione 62, 6816 Bissone, Suiza",
+    "website": "hotel-campione.ch",
+    "phone": "+41 91 640 16 16",
+    "city": "Bissone, Suiza",
+    "price": "223€"
+  },
+  {
+    "name": "GuestHouse Lugano Center",
+    "category": "Alojamiento de autoservicio",
+    "n_reviews": "614",
+    "address": "Via Silvio Calloni 2, 6900 Lugano, Suiza",
+    "website": "luganoguesthouse.com",
+    "phone": "+41 91 601 04 37",
+    "city": "Lugano, Suiza",
+    "price": "109€"
+  },
+  {
+    "name": "Colibrì",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "371",
+    "address": "Via Aldesago 91, 6974 Lugano, Suiza",
+    "website": "hotelcolibri.ch",
+    "phone": "+41 91 971 42 42",
+    "city": "Lugano, Suiza",
+    "price": "140€"
+  },
+  {
+    "name": "Hotel City Lugano",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "445",
+    "address": "Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",
+    "website": "hotelcitylugano.ch",
+    "phone": "+41 91 222 09 00",
+    "city": "Lugano, Suiza",
+    "price": "241€"
+  },
+  {
+    "name": "Hotel Acquarello Swiss Quality",
+    "category": "Hotel",
+    "n_reviews": "447",
+    "address": "Piazza Cioccaro 9, 6900 Lugano, Suiza",
+    "website": "acquarello.ch",
+    "phone": "+41 91 911 68 68",
+    "city": "Lugano, Suiza",
+    "price": "204€"
+  },
+  {
+    "name": "Hotel Zurigo Downtown",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "263",
+    "address": "Corso Enrico Pestalozzi 13, 6900 Lugano, Suiza",
+    "website": "hotelzurigo.ch",
+    "phone": "+41 91 923 43 43",
+    "city": "Lugano, Suiza",
+    "price": "230€"
+  },
+  {
+    "name": "Albergo Ristorante La Palma",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "653",
+    "address": "Piazza Francesco Borromini, 6816 Bissone, Suiza",
+    "website": "palmabissone.ch",
+    "phone": "+41 91 649 84 06",
+    "city": "Bissone, Suiza",
+    "price": "177€"
+  },
+  {
+    "name": "Hotel Besso Lugano",
+    "category": "Hotel de 2 estrellas urbano con vistas a la montaña",
+    "n_reviews": "334",
+    "address": "Via Besso 24, 6900 Lugano, Suiza",
+    "website": "hotelbesso.ch",
+    "phone": "+41 91 967 23 12",
+    "city": "Lugano, Suiza",
+    "price": "177€"
+  },
+  {
+    "name": "Park Hotel Principe - Collina d'Oro",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "261",
+    "address": "Via Montalbano 19, 6900 Lugano, Suiza",
+    "website": "parkhotelprincipe.com",
+    "phone": "+41 91 985 86 43",
+    "city": "Lugano, Suiza",
+    "price": "205€"
+  },
+  {
+    "name": "GABBANI HOTEL",
+    "category": "Hotel",
+    "n_reviews": "231",
+    "address": "Piazza Cioccaro 1, 6900 Lugano, Suiza",
+    "website": "gabbani.com",
+    "phone": "+41 91 921 34 70",
+    "city": "Lugano, Suiza",
+    "price": "251€"
+  },
+  {
+    "name": "Hotel De La Paix Lugano",
+    "category": "Hotel selecto con alta cocina y piscina",
+    "n_reviews": "1.196",
+    "address": "Via Giuseppe Cattori 18, 6900 Lugano, Suiza",
+    "website": "delapaix.ch",
+    "phone": "+41 91 960 60 60",
+    "city": "Lugano, Suiza",
+    "price": "314€"
+  },
+  {
+    "name": "Bigatt Hotel & Restaurant",
+    "category": "Hotel de 3 estrellas tranquilo con restaurante y piscina",
+    "n_reviews": "275",
+    "address": "Via Carona 41, 6900 Paradiso, Suiza",
+    "website": "bigatt.ch",
+    "phone": "+41 91 985 28 80",
+    "city": "Paradiso, Suiza",
+    "price": "266€"
+  },
+  {
+    "name": "Lac Hotel Melide",
+    "category": "Hotel informal con vistas al lago y bar",
+    "n_reviews": "131",
+    "address": "lungo lago G.Motta 9, 6815 Melide, Suiza",
+    "website": "lachotel.ch",
+    "phone": "+41 91 649 70 41",
+    "city": "Melide, Suiza",
+    "price": "235€"
+  },
+  {
+    "name": "Hotel Villa Carona",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "154",
+    "address": "Via Principale 53, 6914 Lugano, Suiza",
+    "website": "villacarona.ch",
+    "phone": "+41 91 649 70 55",
+    "city": "Lugano, Suiza",
+    "price": "290€"
+  },
+  {
+    "name": "Splendori Suite",
+    "category": "Hotel",
+    "n_reviews": "41",
+    "address": "Via Nassa 52, 6900 Lugano, Suiza",
+    "website": "hotelsancarlolugano.ch",
+    "phone": "+41 91 922 71 07",
+    "city": "Lugano, Suiza",
+    "price": "256€"
+  },
+  {
+    "name": "Ristorante Camino",
+    "category": "Restaurante · ",
+    "n_reviews": "92",
+    "address": "Via Massago 3, 6977 Ruvigliana, Suiza",
+    "website": "rist-camino.ch",
+    "phone": "+41 91 211 01 50",
+    "city": "Lugano, Suiza",
+    "price": "111€"
+  },
+  {
+    "name": "B5 Boutique Hotel Lugano",
+    "category": "Hotel",
+    "n_reviews": "9",
+    "address": "Via Francesco Borromini 5, 6900 Lugano, Suiza",
+    "website": "b5hotel.ch",
+    "phone": "+41 91 966 33 70",
+    "city": "Lugano, Suiza",
+    "price": "268€"
+  },
+  {
+    "name": "Locanda Castagnola / Hotel",
+    "category": "HotelAlojamiento sencillo con restaurante",
+    "n_reviews": "138",
+    "address": "Contrada Vecchio Municipio 1, 6976 Castagnola, Suiza",
+    "website": "locandacastagnola.ch",
+    "phone": "NO_PHONE",
+    "city": "NO_CITY",
+    "price": "164€"
+  },
+  {
+    "name": "Resort Collina d'Oro",
+    "category": "Complejo hotelero",
+    "n_reviews": "351",
+    "address": "Via Roncone 22, 6927 Collina d'Oro, Suiza",
+    "website": "resortcollinadoro.com",
+    "phone": "+41 91 641 11 11",
+    "city": "Collina d'Oro, Suiza",
+    "price": "394€"
+  },
+  {
+    "name": "Grotto Flora B&B",
+    "category": "Restaurante · ",
+    "n_reviews": "337",
+    "address": "Via Municipio 8, 6927 Agra, Suiza",
+    "website": "grottoflora.com",
+    "phone": "+41 91 994 15 67",
+    "city": "Agra, Collina d'Oro, Suiza",
+    "price": "153€"
+  },
+  {
+    "name": "Swiss Hotel Apartments - Lugano",
+    "category": "Hotel",
+    "n_reviews": "44",
+    "address": "Corso Elvezia 35, 6900 Lugano, Suiza",
+    "website": "swisshotelapartments.ch",
+    "phone": "+41 79 781 99 99",
+    "city": "Lugano, Suiza",
+    "price": "489€"
+  },
+  {
+    "name": "Lido Seegarten",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "673",
+    "address": "Viale Castagnola 22, 6900 Lugano, Suiza",
+    "website": "hotellido-lugano.com",
+    "phone": "+41 91 973 63 63",
+    "city": "Lugano, Suiza",
+    "price": ""
+  },
+  {
+    "name": "Hotel Vezia",
+    "category": "Hotel de 3 estrellas",
+    "n_reviews": "422",
+    "address": "Via S. Gottardo 32, 6943 Vezia, Suiza",
+    "website": "hotelvezia.ch",
+    "phone": "+41 91 966 36 31",
+    "city": "Vezia, Suiza",
+    "price": "133€"
+  }
+]
