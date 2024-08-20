@@ -30,6 +30,16 @@
     "price": "138€"
   },
   {
+    "name": "Hotel Splendide Royal Lugano",
+    "category": "Hotel de 5 estrellas de lujo junto al lago con restaurante",
+    "n_reviews": "1204",
+    "address": "Riva Antonio Caccia 7, 6900 Lugano, Suiza",
+    "website": "splendide.ch",
+    "phone": "+41 91 985 77 11",
+    "city": "Lugano, Suiza",
+    "price": "539€"
+  },
+  {
     "name": "Continental Parkhotel Lugano",
     "category": "Hotel",
     "n_reviews": "781",
@@ -47,12 +57,12 @@
     "website": "hotel-international.ch",
     "phone": "+41 91 922 75 41",
     "city": "Lugano, Suiza",
-    "price": "279€"
+    "price": "302€"
   },
   {
     "name": "Hotel Admiral",
     "category": "Hotel de 4 estrellas moderno con piscina en la azotea",
-    "n_reviews": "1.314",
+    "n_reviews": "1314",
     "address": "Via Geretta 15, 6900 Lugano, Suiza",
     "website": "luganohoteladmiral.com",
     "phone": "+41 91 986 38 38",
@@ -82,7 +92,7 @@
   {
     "name": "Swiss Diamond Hotel Lugano",
     "category": "Hotel de 5 estrellas elegante con spa y 3 restaurantes",
-    "n_reviews": "1.006",
+    "n_reviews": "1006",
     "address": "Riva lago Olivella 29, 6921 Vico Morcote, Suiza",
     "website": "swissdiamondhotel.com",
     "phone": "+41 91 735 00 00",
@@ -97,7 +107,7 @@
     "website": "victoriahotel.ch",
     "phone": "+41 91 994 20 31",
     "city": "Paradiso, Suiza",
-    "price": "184€"
+    "price": "182€"
   },
   {
     "name": "Hotel Dischma",
@@ -107,7 +117,7 @@
     "website": "hotel-dischma-lugano.ch",
     "phone": "+41 91 994 21 31",
     "city": "Paradiso, Suiza",
-    "price": "101€"
+    "price": "100€"
   },
   {
     "name": "Hotel Walter Au Lac",
@@ -152,7 +162,7 @@
   {
     "name": "LUGANODANTE - We Like You",
     "category": "Hotel de 4 estrellas sofisticado con coctelería",
-    "n_reviews": "1.011",
+    "n_reviews": "1011",
     "address": "Piazza Cioccaro 5, 6900 Lugano, Suiza",
     "website": "luganodante.com",
     "phone": "+41 91 910 57 00",
@@ -162,7 +172,7 @@
   {
     "name": "Villa Principe Leopoldo",
     "category": "Hotel de 5 estrellas selecto con vistas al lago",
-    "n_reviews": "1.037",
+    "n_reviews": "1037",
     "address": "Via Montalbano 5, 6900 Lugano, Suiza",
     "website": "leopoldohotel.com",
     "phone": "+41 91 985 88 55",
@@ -180,16 +190,6 @@
     "price": "257€"
   },
   {
-    "name": "Best Western Hotel Bellevue au Lac",
-    "category": "Hotel de 4 estrellas",
-    "n_reviews": "349",
-    "address": "Riva Antonio Caccia 10, 6900 Lugano, Suiza",
-    "website": "hotelbellevue.ch",
-    "phone": "+41 91 994 33 33",
-    "city": "Lugano, Suiza",
-    "price": "290€"
-  },
-  {
     "name": "Hotel ibis Lugano Paradiso",
     "category": "Hotel de 3 estrellas",
     "n_reviews": "823",
@@ -200,9 +200,19 @@
     "price": "161€"
   },
   {
+    "name": "Grand Hotel Villa Castagnola",
+    "category": "Hotel de 5 estrellas",
+    "n_reviews": "709",
+    "address": "Viale Castagnola 31, 6900 Lugano, Suiza",
+    "website": "villacastagnola.com",
+    "phone": "+41 91 973 25 55",
+    "city": "Lugano, Suiza",
+    "price": "514€"
+  },
+  {
     "name": "Villa Sassa Hotel, Residence & Spa",
     "category": "Hotel de 4 estrellas con restaurante, piscinas y spa",
-    "n_reviews": "1.056",
+    "n_reviews": "1056",
     "address": "Via Tesserete 10, 6900 Lugano, Suiza",
     "website": "villasassa.ch",
     "phone": "+41 91 911 41 11",
@@ -220,16 +230,6 @@
     "price": "257€"
   },
   {
-    "name": "Hotel City Lugano",
-    "category": "Hotel de 4 estrellas",
-    "n_reviews": "446",
-    "address": "Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",
-    "website": "hotelcitylugano.ch",
-    "phone": "+41 91 222 09 00",
-    "city": "Lugano, Suiza",
-    "price": "196€"
-  },
-  {
     "name": "Hotel ibis Lugano Paradiso",
     "category": "Hotel de 3 estrellas",
     "n_reviews": "823",
@@ -247,7 +247,7 @@
     "website": "hotelbellevue.ch",
     "phone": "+41 91 994 33 33",
     "city": "Lugano, Suiza",
-    "price": "290€"
+    "price": "301€"
   },
   {
     "name": "Hotel Delfino Lugano",
@@ -267,7 +267,17 @@
     "website": "parco-paradiso.com",
     "phone": "+41 91 993 11 11",
     "city": "Paradiso, Suiza",
-    "price": "313€"
+    "price": "306€"
+  },
+  {
+    "name": "Hotel City Lugano",
+    "category": "Hotel de 4 estrellas",
+    "n_reviews": "446",
+    "address": "Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",
+    "website": "hotelcitylugano.ch",
+    "phone": "+41 91 222 09 00",
+    "city": "Lugano, Suiza",
+    "price": "214€"
   },
   {
     "name": "Lugano Centre Room",
@@ -330,16 +340,6 @@
     "price": "231€"
   },
   {
-    "name": "Hotel Splendide Royal Lugano",
-    "category": "Hotel de 5 estrellas de lujo junto al lago con restaurante",
-    "n_reviews": "1.204",
-    "address": "Riva Antonio Caccia 7, 6900 Lugano, Suiza",
-    "website": "splendide.ch",
-    "phone": "+41 91 985 77 11",
-    "city": "Lugano, Suiza",
-    "price": ""
-  },
-  {
     "name": "Park Hotel Principe - Collina d'Oro",
     "category": "Hotel de 4 estrellas",
     "n_reviews": "261",
@@ -347,7 +347,7 @@
     "website": "parkhotelprincipe.com",
     "phone": "+41 91 985 86 43",
     "city": "Lugano, Suiza",
-    "price": "199€"
+    "price": "200€"
   },
   {
     "name": "Albergo Ristorante La Palma",
@@ -362,7 +362,7 @@
   {
     "name": "Hotel De La Paix Lugano",
     "category": "Hotel selecto con alta cocina y piscina",
-    "n_reviews": "1.196",
+    "n_reviews": "1196",
     "address": "Via Giuseppe Cattori 18, 6900 Lugano, Suiza",
     "website": "delapaix.ch",
     "phone": "+41 91 960 60 60",
@@ -427,7 +427,7 @@
     "website": "hotelsancarlolugano.ch",
     "phone": "+41 91 922 71 07",
     "city": "Lugano, Suiza",
-    "price": "233€"
+    "price": "239€"
   },
   {
     "name": "B5 Boutique Hotel Lugano",
@@ -591,7 +591,7 @@
   },
   {
     "name": "Ristorante le bucce di Gandria",
-    "category": "Restaurante · Cerrado ⋅ Apertura: 19:00",
+    "category": "Restaurante · Abre pronto ⋅ 19:00",
     "n_reviews": "222",
     "address": "Via Cantonale, 6978 Lugano, Suiza",
     "website": "lebucce.com",

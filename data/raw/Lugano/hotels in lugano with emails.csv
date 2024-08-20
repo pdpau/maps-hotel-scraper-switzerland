@@ -1,61 +1,61 @@
 name,category,n_reviews,address,website,phone,city,price,email
-Hotel San Carlo,Hotel,314,"Via Nassa 28, 6900 Lugano, Suiza",hotelsancarlolugano.ch,+41 91 922 71 07,"Lugano, Suiza",124€,NO_EMAIL
-Hostel Montarina,Hotel,483,"Via Montarina 1, 6900 Lugano, Suiza",montarina.ch,+41 91 966 72 72,"Lugano, Suiza",83€,info@montarina.com
-Hotel Pestalozzi,Hotel,793,"Piazza Dell Indipendenza 9, 6900 Lugano, Suiza",pestalozzi-lugano.ch,+41 91 921 46 46,"Lugano, Suiza",138€,info@pestalozzi-lugano.ch
-Hotel Splendide Royal Lugano,Hotel de 5 estrellas de lujo junto al lago con restaurante,1204,"Riva Antonio Caccia 7, 6900 Lugano, Suiza",splendide.ch,+41 91 985 77 11,"Lugano, Suiza",539€,hr@splendide.ch
-Continental Parkhotel Lugano,Hotel,781,"Via Basilea 28, 6900 Lugano, Suiza",continentalparkhotel.com,+41 91 966 11 12,"Lugano, Suiza",199€,info@continentalparkhotel.com
-International au Lac Historic Lakeside Hotel,Hotel de 3 estrellas,585,"Via Nassa 68, 6900 Lugano, Suiza",hotel-international.ch,+41 91 922 75 41,"Lugano, Suiza",302€,info@hotel-international.ch
-Hotel Admiral,Hotel de 4 estrellas moderno con piscina en la azotea,1314,"Via Geretta 15, 6900 Lugano, Suiza",luganohoteladmiral.com,+41 91 986 38 38,"Lugano, Suiza",194€,info@luganohoteladmiral.ch
-ibis budget Lugano Paradiso,Hotel con habitaciones luminosas,552,"Via Geretta 10, 6900 Paradiso, Suiza",all.accor.com,+41 91 986 19 29,NO_CITY,148€,NO_EMAIL
-Hotel Colorado Lugano,Hotel de 3 estrellas,281,"Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",colorado.ch,+41 91 994 16 31,"Lugano, Suiza",177€,hotel@colorado.ch
-Swiss Diamond Hotel Lugano,Hotel de 5 estrellas elegante con spa y 3 restaurantes,1006,"Riva lago Olivella 29, 6921 Vico Morcote, Suiza",swissdiamondhotel.com,+41 91 735 00 00,"Vico Morcote, Suiza",348€,info@swissdiamondhotel.com
-Hotel Victoria au Lac,Hotel de 3 estrellas,598,"Via Generale Guisan 3, 6900 Paradiso, Suiza",victoriahotel.ch,+41 91 994 20 31,"Paradiso, Suiza",182€,info@victoriahotel.ch
-Hotel Dischma,Hotel,444,"Vicolo Geretta 6, 6900 Paradiso, Suiza",hotel-dischma-lugano.ch,+41 91 994 21 31,"Paradiso, Suiza",100€,info@hotel-dischma-lugano.ch
-Hotel Walter Au Lac,Hotel de 3 estrellas,449,"Piazza Riziero Rezzonico 7, 6900 Lugano, Suiza",walteraulac.ch,+41 91 922 74 25,"Lugano, Suiza",269€,hotel@walteraulac.ch
-Grand Hotel Campione,Hotel de 5 estrellas,258,NO_ADDRESS,ghcampione.com,+41 91 649 50 60,"Campione d'Italia, Como, Italia",236€,info@ghcampione.com
-Nassa,Hotel modesto con vistas al lago,343,"Via Nassa 60, 6900 Lugano, Suiza",NO_WEBSITE,NO_PHONE,NO_CITY,193€,
-Novotel Lugano Paradiso,Hotel de 4 estrellas,878,"Viale S. Salvatore 11, 6900 Paradiso, Suiza",all.accor.com,+41 91 985 09 09,"Paradiso, Suiza",304€,NO_EMAIL
-LUGANODANTE - We Like You,Hotel de 4 estrellas sofisticado con coctelería,1011,"Piazza Cioccaro 5, 6900 Lugano, Suiza",luganodante.com,+41 91 910 57 00,"Lugano, Suiza",283€,info@luganodante.com
-Villa Principe Leopoldo,Hotel de 5 estrellas selecto con vistas al lago,1037,"Via Montalbano 5, 6900 Lugano, Suiza",leopoldohotel.com,+41 91 985 88 55,"Lugano, Suiza",316€,info@leopoldohotel.com
-Hotel Federale Lugano,Hotel de 3 estrellas,724,"Via Paolo Regazzoni 8, 6900 Lugano, Suiza",hotel-federale.ch,+41 91 910 08 08,"Lugano, Suiza",257€,info@hotel-federale.ch
-Hotel ibis Lugano Paradiso,Hotel de 3 estrellas,823,"Via Geretta 10A, 6900 Paradiso, Suiza",all.accor.com,+41 91 986 19 09,NO_CITY,161€,NO_EMAIL
-Grand Hotel Villa Castagnola,Hotel de 5 estrellas,709,"Viale Castagnola 31, 6900 Lugano, Suiza",villacastagnola.com,+41 91 973 25 55,"Lugano, Suiza",514€,NO_EMAIL
-"Villa Sassa Hotel, Residence & Spa","Hotel de 4 estrellas con restaurante, piscinas y spa",1056,"Via Tesserete 10, 6900 Lugano, Suiza",villasassa.ch,+41 91 911 41 11,"Lugano, Suiza",357€,info@villasassa.ch
-Hotel Federale Lugano,Hotel de 3 estrellas,724,"Via Paolo Regazzoni 8, 6900 Lugano, Suiza",hotel-federale.ch,+41 91 910 08 08,"Lugano, Suiza",257€,info@hotel-federale.ch
-Hotel ibis Lugano Paradiso,Hotel de 3 estrellas,823,"Via Geretta 10A, 6900 Paradiso, Suiza",all.accor.com,+41 91 986 19 09,NO_CITY,161€,NO_EMAIL
-Best Western Hotel Bellevue au Lac,Hotel de 4 estrellas,349,"Riva Antonio Caccia 10, 6900 Lugano, Suiza",hotelbellevue.ch,+41 91 994 33 33,"Lugano, Suiza",301€,info@hotelbellevue.ch
-Hotel Delfino Lugano,Hotel de 3 estrellas,860,"Hotel Delfino Lugano, Via Cassarinetta 6, 6900 Lugano, Suiza",hoteldelfinolugano.ch,+41 91 985 99 99,"Lugano, Suiza",212€,info@hoteldelfinolugano.ch
-Suitenhotel Parco Paradiso,Hotel de 4 estrellas,916,"Via Carona 27, 6900 Paradiso, Suiza",parco-paradiso.com,+41 91 993 11 11,"Paradiso, Suiza",306€,NO_EMAIL
-Hotel City Lugano,Hotel de 4 estrellas,446,"Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",hotelcitylugano.ch,+41 91 222 09 00,"Lugano, Suiza",214€,city@hotelcitylugano.ch
-Lugano Centre Room,Pensión,72,"Via Miravalle 8, 6900 Massagno, Suiza",NO_WEBSITE,NO_PHONE,NO_CITY,80€,
-Hotel Campione,Hotel,339,"Via Campione 62, 6816 Bissone, Suiza",hotel-campione.ch,+41 91 640 16 16,"Bissone, Suiza",222€,info@hotel-campione.ch
-Hotel Acquarello Swiss Quality,Hotel,447,"Piazza Cioccaro 9, 6900 Lugano, Suiza",acquarello.ch,+41 91 911 68 68,"Lugano, Suiza",174€,info@acquarello.ch
-GuestHouse Lugano Center,Alojamiento de autoservicio,614,"Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,"Lugano, Suiza",115€,info@luganoguesthouse.com
-Hotel Besso Lugano,Hotel de 2 estrellas urbano con vistas a la montaña,334,"Via Besso 24, 6900 Lugano, Suiza",hotelbesso.ch,+41 91 967 23 12,"Lugano, Suiza",164€,info@hotelbesso.ch
-Hotel Zurigo Downtown,Hotel de 3 estrellas,263,"Corso Enrico Pestalozzi 13, 6900 Lugano, Suiza",hotelzurigo.ch,+41 91 923 43 43,"Lugano, Suiza",231€,hotelzurigo@horizoncollection.ch
-Park Hotel Principe - Collina d'Oro,Hotel de 4 estrellas,261,"Via Montalbano 19, 6900 Lugano, Suiza",parkhotelprincipe.com,+41 91 985 86 43,"Lugano, Suiza",200€,info@parkhotelprincipe.com
-Albergo Ristorante La Palma,Hotel de 3 estrellas,654,"Piazza Francesco Borromini, 6816 Bissone, Suiza",palmabissone.ch,+41 91 649 84 06,"Bissone, Suiza",184€,NO_EMAIL
-Hotel De La Paix Lugano,Hotel selecto con alta cocina y piscina,1196,"Via Giuseppe Cattori 18, 6900 Lugano, Suiza",delapaix.ch,+41 91 960 60 60,"Lugano, Suiza",295€,booking@delapaix.ch
-Colibrì,Hotel de 3 estrellas,371,"Via Aldesago 91, 6974 Lugano, Suiza",hotelcolibri.ch,+41 91 971 42 42,"Lugano, Suiza",200€,NO_EMAIL
-GABBANI HOTEL,Hotel,231,"Piazza Cioccaro 1, 6900 Lugano, Suiza",gabbani.com,+41 91 921 34 70,"Lugano, Suiza",256€,info@hotel-gabbani.ch
-Bigatt Hotel & Restaurant,Hotel de 3 estrellas tranquilo con restaurante y piscina,275,"Via Carona 41, 6900 Paradiso, Suiza",bigatt.ch,+41 91 985 28 80,"Paradiso, Suiza",266€,reservations@bigatt.ch
-Lac Hotel Melide,Hotel informal con vistas al lago y bar,131,"lungo lago G.Motta 9, 6815 Melide, Suiza",lachotel.ch,+41 91 649 70 41,"Melide, Suiza",231€,NO_EMAIL
-Hotel Villa Carona,Hotel de 3 estrellas,154,"Via Principale 53, 6914 Lugano, Suiza",villacarona.ch,+41 91 649 70 55,"Lugano, Suiza",290€,info@villacarona.ch
-Splendori Suite,Hotel,41,"Via Nassa 52, 6900 Lugano, Suiza",hotelsancarlolugano.ch,+41 91 922 71 07,"Lugano, Suiza",239€,NO_EMAIL
-B5 Boutique Hotel Lugano,Hotel,10,"Via Francesco Borromini 5, 6900 Lugano, Suiza",b5hotel.ch,+41 91 966 33 70,"Lugano, Suiza",268€,ciao@B5hotel.ch
-Ristorante Camino,Restaurante · ,92,"Via Massago 3, 6977 Ruvigliana, Suiza",rist-camino.ch,+41 91 211 01 50,"Lugano, Suiza",111€,Info@rist-camino.ch
-Locanda Castagnola / Hotel,HotelAlojamiento sencillo con restaurante,138,"Contrada Vecchio Municipio 1, 6976 Castagnola, Suiza",locandacastagnola.ch,NO_PHONE,NO_CITY,164€,NO_EMAIL
-Resort Collina d'Oro,Complejo hotelero,351,"Via Roncone 22, 6927 Collina d'Oro, Suiza",resortcollinadoro.com,+41 91 641 11 11,"Collina d'Oro, Suiza",395€,info@resortcollinadoro.com
-Bed & Breakfast Regina (Agno),Bed & Breakfast,45,"Piazza Natale Vicari 15, 6982 Agno, Suiza",stayregina.ch,+41 78 422 85 82,"Agno, Suiza",127€,reception@stayregina.ch
-Youth Hostel Lugano Savosa,Ostello della gioventù,399,"Via Cantonale 13, 6942 Savosa, Suiza",youthhostel.ch,+41 91 966 27 28,"Savosa, Suiza",122€,NO_EMAIL
-Grotto Flora B&B,Restaurante · ,337,"Via Municipio 8, 6927 Agra, Suiza",grottoflora.com,+41 91 994 15 67,"Agra, Collina d'Oro, Suiza",153€,grottoflora@hotmail.com
-Swiss Hotel Apartments - Lugano,Hotel,44,"Corso Elvezia 35, 6900 Lugano, Suiza",swisshotelapartments.ch,+41 79 781 99 99,"Lugano, Suiza",486€,hello@swisshotelapartments.ch
-Lido Seegarten,Hotel de 4 estrellas,673,"Viale Castagnola 22, 6900 Lugano, Suiza",hotellido-lugano.com,+41 91 973 63 63,"Lugano, Suiza",,info@hotellido-lugano.com
-7 Rooms Grancia - Camere in affitto,Alojamiento en interioresCasa de huéspedes sencilla con Wi-Fi y aparcamiento,83,"Via alla Chiesa 6, 6916 Grancia, Suiza",7roomsgrancia.ch,+41 76 595 69 16,"Grancia, Suiza",124€,info@7roomsgrancia.ch
-Salotto Brè Bed & Breakfast,Bed & Breakfast,2,"Via Brè 46, 6979 Brè sopra Lugano, Suiza",salotto-bre.ch,+41 79 551 13 37,"Lugano, Suiza",194€,NO_EMAIL
-Casale Della Vite,Restaurante · Abierto ⋅ Cierra a las 23:30,125,"Via Stazione 22, 6983 Magliaso, Suiza",it-it.facebook.com,+41 91 600 97 14,"Magliaso, Suiza",92€,NO_EMAIL
-Albergo Gardenia,Hotel de 3 estrellas,117,"Via Valle 20, 6987 Caslano, Suiza",garni-gardenia.ch,+41 91 611 82 11,"Caslano, Suiza",248€,info@garni-gardenia.ch
-Lugano Apartments,Hotel de larga estancia,17,"Via Valletta 1, 6900 Lugano, Suiza",luganoapartments.com,+41 91 601 04 37,"Lugano, Suiza",153€,info@luganoapartments.com
-Centro Magliaso,Hotel,206,"Via Bosconi 11, 6983 Magliaso, Suiza",centro-magliaso.ch,+41 91 606 14 41,"Magliaso, Suiza",223€,willkommen@centro-magliaso.ch
-Hotel Vezia,Hotel de 3 estrellas,422,"Via S. Gottardo 32, 6943 Vezia, Suiza",hotelvezia.ch,+41 91 966 36 31,"Vezia, Suiza",169€,info@hotelvezia.ch
-Ristorante le bucce di Gandria,Restaurante · Abre pronto ⋅ 19:00,222,"Via Cantonale, 6978 Lugano, Suiza",lebucce.com,+41 91 225 88 33,NO_CITY,138€,lebuccemv@gmail.com
+Hostel Montarina,Hotel,487,"Via Montarina 1, 6900 Lugano, Suiza",montarina.ch,+41 91 966 72 72,"Lugano, Suiza",81€,info@montarina.com
+Hotel Splendide Royal Lugano,Hotel de 5 estrellas de lujo junto al lago con restaurante,1210,"Riva Antonio Caccia 7, 6900 Lugano, Suiza",splendide.ch,+41 91 985 77 11,"Lugano, Suiza",471€,hr@splendide.ch
+Hotel Pestalozzi,Hotel,804,"Piazza Dell Indipendenza 9, 6900 Lugano, Suiza",pestalozzi-lugano.ch,+41 91 921 46 46,"Lugano, Suiza",137€,info@pestalozzi-lugano.ch
+Hotel Admiral,Hotel de 4 estrellas moderno con piscina en la azotea,1322,"Via Geretta 15, 6900 Lugano, Suiza",luganohoteladmiral.com,+41 91 986 38 38,"Lugano, Suiza",166€,info@luganohoteladmiral.ch
+Hotel San Carlo,Hotel,321,"Via Nassa 28, 6900 Lugano, Suiza",hotelsancarlolugano.ch,+41 91 922 71 07,"Lugano, Suiza",154€,NO_EMAIL
+Continental Parkhotel Lugano,Hotel,782,"Via Basilea 28, 6900 Lugano, Suiza",continentalparkhotel.com,+41 91 966 11 12,"Lugano, Suiza",212€,info@continentalparkhotel.com
+International au Lac Historic Lakeside Hotel,Hotel de 3 estrellas,589,"Via Nassa 68, 6900 Lugano, Suiza",hotel-international.ch,+41 91 922 75 41,"Lugano, Suiza",288€,info@hotel-international.ch
+ibis budget Lugano Paradiso,Hotel con habitaciones luminosas,559,"Via Geretta 10, 6900 Paradiso, Suiza",all.accor.com,+41 91 986 19 29,NO_CITY,133€,NO_EMAIL
+Villa Principe Leopoldo,Hotel de 5 estrellas selecto con vistas al lago,1040,"Via Montalbano 5, 6900 Lugano, Suiza",leopoldohotel.com,+41 91 985 88 55,"Lugano, Suiza",279€,info@leopoldohotel.com
+Hotel Federale Lugano,Hotel de 3 estrellas,728,"Via Paolo Regazzoni 8, 6900 Lugano, Suiza",hotel-federale.ch,+41 91 910 08 08,"Lugano, Suiza",217€,info@hotel-federale.ch
+Youth Hostel Lugano Savosa,Ostello della gioventù,402,"Via Cantonale 13, 6942 Savosa, Suiza",youthhostel.ch,+41 91 966 27 28,"Savosa, Suiza",65€,NO_EMAIL
+Hotel Victoria au Lac,Hotel de 3 estrellas,601,"Via Generale Guisan 3, 6900 Paradiso, Suiza",victoriahotel.ch,+41 91 994 20 31,"Paradiso, Suiza",182€,info@victoriahotel.ch
+Hotel Firenze Lugano,Hotel,243,"Str. di Gandria 1, 6976 Lugano, Suiza",ristorantefirenze.ch,+41 91 224 62 33,"Lugano, Suiza",109€,20firenze.castagnola@gmail.com
+Grand Hotel Campione,Hotel de 5 estrellas,261,NO_ADDRESS,ghcampione.com,+41 91 649 50 60,"Campione d'Italia, Como, Italia",233€,info@ghcampione.com
+Hotel Colorado Lugano,Hotel de 3 estrellas,283,"Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",colorado.ch,+41 91 994 16 31,"Lugano, Suiza",185€,hotel@colorado.ch
+Hotel Delfino Lugano,Hotel de 3 estrellas,865,"Hotel Delfino Lugano, Via Cassarinetta 6, 6900 Lugano, Suiza",hoteldelfinolugano.ch,+41 91 985 99 99,"Lugano, Suiza",168€,info@hoteldelfinolugano.ch
+Nassa,Hotel modesto con vistas al lago,346,"Via Nassa 60, 6900 Lugano, Suiza",NO_WEBSITE,NO_PHONE,NO_CITY,191€,
+Novotel Lugano Paradiso,Hotel de 4 estrellas,889,"Viale S. Salvatore 11, 6900 Paradiso, Suiza",all.accor.com,+41 91 985 09 09,"Paradiso, Suiza",296€,NO_EMAIL
+Swiss Diamond Hotel Lugano,Hotel de 5 estrellas elegante con spa y 3 restaurantes,1021,"Riva lago Olivella 29, 6921 Vico Morcote, Suiza",swissdiamondhotel.com,+41 91 735 00 00,"Vico Morcote, Suiza",425€,info@swissdiamondhotel.com
+LUGANODANTE - We Like You,Hotel de 4 estrellas sofisticado con coctelería,1012,"Piazza Cioccaro 5, 6900 Lugano, Suiza",luganodante.com,+41 91 910 57 00,"Lugano, Suiza",286€,info@luganodante.com
+Hotel Colorado Lugano,Hotel de 3 estrellas,283,"Via Clemente Maraini 19, Via Antonio Adamini 20, 6900 Lugano, Suiza",colorado.ch,+41 91 994 16 31,"Lugano, Suiza",185€,hotel@colorado.ch
+Novotel Lugano Paradiso,Hotel de 4 estrellas,889,"Viale S. Salvatore 11, 6900 Paradiso, Suiza",all.accor.com,+41 91 985 09 09,"Paradiso, Suiza",296€,NO_EMAIL
+Grand Hotel Villa Castagnola,Hotel de 5 estrellas,715,"Viale Castagnola 31, 6900 Lugano, Suiza",villacastagnola.com,+41 91 973 25 55,"Lugano, Suiza",530€,NO_EMAIL
+LUGANODANTE - We Like You,Hotel de 4 estrellas sofisticado con coctelería,1012,"Piazza Cioccaro 5, 6900 Lugano, Suiza",luganodante.com,+41 91 910 57 00,"Lugano, Suiza",286€,info@luganodante.com
+Hotel Riviera,Hotel de 3 estrellas,267,"Lungolago Giuseppe Motta 7, 6815 Melide, Suiza",hotel-riviera.ch,+41 91 640 15 00,"Melide, Suiza",279€,NO_EMAIL
+Lido Seegarten,Hotel de 4 estrellas,675,"Viale Castagnola 22, 6900 Lugano, Suiza",hotellido-lugano.com,+41 91 973 63 63,"Lugano, Suiza",472€,info@hotellido-lugano.com
+Suitenhotel Parco Paradiso,Hotel de 4 estrellas,919,"Via Carona 27, 6900 Paradiso, Suiza",parco-paradiso.com,+41 91 993 11 11,"Paradiso, Suiza",266€,NO_EMAIL
+Best Western Hotel Bellevue au Lac,Hotel de 4 estrellas,353,"Riva Antonio Caccia 10, 6900 Lugano, Suiza",hotelbellevue.ch,+41 91 994 33 33,"Lugano, Suiza",277€,info@hotelbellevue.ch
+Hotel Walter Au Lac,Hotel de 3 estrellas,451,"Piazza Riziero Rezzonico 7, 6900 Lugano, Suiza",walteraulac.ch,+41 91 922 74 25,"Lugano, Suiza",353€,hotel@walteraulac.ch
+Hotel ibis Lugano Paradiso,Hotel de 3 estrellas,829,"Via Geretta 10A, 6900 Paradiso, Suiza",all.accor.com,+41 91 986 19 09,NO_CITY,161€,NO_EMAIL
+Hotel Dischma,Hotel,447,"Vicolo Geretta 6, 6900 Paradiso, Suiza",hotel-dischma-lugano.ch,+41 91 994 21 31,"Paradiso, Suiza",105€,info@hotel-dischma-lugano.ch
+Hotel City Lugano,Hotel de 4 estrellas,448,"Via Giuseppe Bagutti 4, 6900 Lugano, Suiza",hotelcitylugano.ch,+41 91 222 09 00,"Lugano, Suiza",213€,city@hotelcitylugano.ch
+GuestHouse Lugano Center,Alojamiento de autoservicio,617,"Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,"Lugano, Suiza",98€,info@luganoguesthouse.com
+Locanda Gandriese,Restaurante · ,522,"Via Silvio Calloni 2, 6900 Lugano, Suiza",luganoguesthouse.com,+41 91 601 04 37,"Lugano, Suiza",98€,info@luganoguesthouse.com
+Hotel De La Paix Lugano,Hotel selecto con alta cocina y piscina,1203,"Via Giuseppe Cattori 18, 6900 Lugano, Suiza",delapaix.ch,+41 91 960 60 60,"Lugano, Suiza",222€,booking@delapaix.ch
+Hotel Acquarello Swiss Quality,Hotel,451,"Piazza Cioccaro 9, 6900 Lugano, Suiza",acquarello.ch,+41 91 911 68 68,"Lugano, Suiza",169€,info@acquarello.ch
+Albergo Ristorante La Palma,Hotel de 3 estrellas,655,"Piazza Francesco Borromini, 6816 Bissone, Suiza",palmabissone.ch,+41 91 649 84 06,"Bissone, Suiza",167€,NO_EMAIL
+Hotel Zurigo Downtown,Hotel de 3 estrellas,263,"Corso Enrico Pestalozzi 13, 6900 Lugano, Suiza",hotelzurigo.ch,+41 91 923 43 43,"Lugano, Suiza",225€,hotelzurigo@horizoncollection.ch
+Hotel Besso Lugano,Hotel de 2 estrellas urbano con vistas a la montaña,338,"Via Besso 24, 6900 Lugano, Suiza",hotelbesso.ch,+41 91 967 23 12,"Lugano, Suiza",162€,info@hotelbesso.ch
+Park Hotel Principe - Collina d'Oro,Hotel de 4 estrellas,262,"Via Montalbano 19, 6900 Lugano, Suiza",parkhotelprincipe.com,+41 91 985 86 43,"Lugano, Suiza",191€,info@parkhotelprincipe.com
+Lugano Centre Room,Pensión,73,"Via Miravalle 8, 6900 Massagno, Suiza",NO_WEBSITE,NO_PHONE,NO_CITY,91€,
+Bigatt Hotel & Restaurant,Hotel de 3 estrellas tranquilo con restaurante y piscina,276,"Via Carona 41, 6900 Paradiso, Suiza",bigatt.ch,+41 91 985 28 80,"Paradiso, Suiza",255€,reservations@bigatt.ch
+GABBANI HOTEL,Hotel,231,"Piazza Cioccaro 1, 6900 Lugano, Suiza",gabbani.com,+41 91 921 34 70,"Lugano, Suiza",254€,info@hotel-gabbani.ch
+Atlantico Hôtel garni,Hotel de 3 estrellas,207,"Via Concordia 12, 6900 Lugano, Suiza",atlantico-lugano.ch,+41 91 971 29 21,"Lugano, Suiza",230€,info@atlantico-lugano.ch
+Al Boccalino,Hotel,160,"Via Francesco Borromini 27, 6815 Melide, Suiza",alboccalino.ch,+41 91 649 77 67,"Melide, Suiza",146€,boccalino@alboccalino.ch
+Hotel Villa Carona,Hotel de 3 estrellas,155,"Via Principale 53, 6914 Lugano, Suiza",villacarona.ch,+41 91 649 70 55,"Lugano, Suiza",286€,info@villacarona.ch
+Lac Hotel Melide,Hotel informal con vistas al lago y bar,133,"lungo lago G.Motta 9, 6815 Melide, Suiza",lachotel.ch,+41 91 649 70 41,"Melide, Suiza",231€,NO_EMAIL
+B5 Boutique Hotel Lugano,Hotel,13,"Via Francesco Borromini 5, 6900 Lugano, Suiza",b5hotel.ch,+41 91 966 33 70,"Lugano, Suiza",247€,ciao@B5hotel.ch
+Colibrì,Hotel de 3 estrellas,373,"Via Aldesago 91, 6974 Lugano, Suiza",hotelcolibri.ch,+41 91 971 42 42,"Lugano, Suiza",293€,NO_EMAIL
+Resort Collina d'Oro,Complejo hotelero,353,"Via Roncone 22, 6927 Collina d'Oro, Suiza",resortcollinadoro.com,+41 91 641 11 11,"Collina d'Oro, Suiza",372€,info@resortcollinadoro.com
+Locanda Castagnola / Hotel,HotelAlojamiento sencillo con restaurante,141,"Contrada Vecchio Municipio 1, 6976 Castagnola, Suiza",locandacastagnola.ch,NO_PHONE,NO_CITY,163€,NO_EMAIL
+Swiss Hotel Apartments - Lugano,Hotel,45,"Corso Elvezia 35, 6900 Lugano, Suiza",swisshotelapartments.ch,+41 79 781 99 99,"Lugano, Suiza",425€,hello@swisshotelapartments.ch
+Bed & Breakfast Regina (Agno),Bed & Breakfast,46,"Piazza Natale Vicari 15, 6982 Agno, Suiza",stayregina.ch,+41 78 422 85 82,"Agno, Suiza",145€,reception@stayregina.ch
+Salotto Brè Bed & Breakfast,Bed & Breakfast,2,"Via Brè 46, 6979 Brè sopra Lugano, Suiza",salotto-bre.ch,+41 79 551 13 37,"Lugano, Suiza",191€,NO_EMAIL
+Albergo Gardenia,Hotel de 3 estrellas,118,"Via Valle 20, 6987 Caslano, Suiza",garni-gardenia.ch,+41 91 611 82 11,"Caslano, Suiza",236€,info@garni-gardenia.ch
+Lugano Apartments,Hotel de larga estancia,17,"Via Valletta 1, 6900 Lugano, Suiza",luganoapartments.com,+41 91 601 04 37,"Lugano, Suiza",132€,info@luganoapartments.com
+7 Rooms Grancia - Camere in affitto,Alojamiento en interioresCasa de huéspedes sencilla con Wi-Fi y aparcamiento,83,"Via alla Chiesa 6, 6916 Grancia, Suiza",7roomsgrancia.ch,+41 76 595 69 16,"Grancia, Suiza",123€,info@7roomsgrancia.ch
+Casale Della Vite,Restaurante · Abierto ⋅ Cierra a las 23:30,125,"Via Stazione 22, 6983 Magliaso, Suiza",it-it.facebook.com,+41 91 600 97 14,"Magliaso, Suiza",91€,NO_EMAIL
+Villa Selva,Hotel de 2 estrellas,127,"Via Tesserete 36, 6900 Massagno, Suiza",villaselva.ch,+41 91 923 60 17,"Massagno, Suiza",272€,NO_EMAIL
+Hotel Vezia,Hotel de 3 estrellas,426,"Via S. Gottardo 32, 6943 Vezia, Suiza",hotelvezia.ch,+41 91 966 36 31,"Vezia, Suiza",147€,info@hotelvezia.ch
