@@ -40,7 +40,7 @@ This project automates the process of scraping HOTEL DATA from Google Maps, extr
 ### Usage
 To scrape and clean hotel data for a specific city, run the following command:
     ```
-    node main.js "[City]"
+    node main.js "Hotels in [City]"
     ```
 
 Replace "[City]" with the name of the city you want to scrape hotel data for. For example, to scrape hotel data for New York City, run:
