@@ -39,30 +39,26 @@ This project automates the process of scraping HOTEL DATA from Google Maps, extr
 
 ### Usage
 To scrape and clean hotel data for a specific city, run the following command:
-    
-    ```bash
-    node main.js "Hotels in [City]"
+    ```
+    node main.js "[City]"
     ```
 
 Replace "[City]" with the name of the city you want to scrape hotel data for. For example, to scrape hotel data for New York City, run:
-
-    ```bash
+    ```
     node main.js "Hotels in New York City"
     ```
 
 #### How It Works
-1. Scraping Data:
+- Scraping Data:
+    - The main.js script initiates the scraping process by extracting hotel information from Google Maps using the maps_hotels_scraper.js script.
+    - After a brief pause, it scrapes emails from the respective hotel websites using the email_hotels_scraper.js script.
 
-- The main.js script initiates the scraping process by extracting hotel information from Google Maps using the maps_hotels_scraper.js script.
-- After a brief pause, it scrapes emails from the respective hotel websites using the email_hotels_scraper.js script.
-
-2. Data Cleaning:
-
-- Once scraping is complete, the script automatically triggers the data_preparation.py script to clean and structure the data. This process includes:
-    - Removing hotels without email addresses.
-    - Dropping duplicate entries.
-    - Reordering and formatting the columns.
-- The cleaned data is then saved as both CSV and JSON files in the data/processed/[City] directory.
+- Data Cleaning:
+    - Once scraping is complete, the script automatically triggers the data_preparation.py script to clean and structure the data. This process includes:
+        - Removing hotels without email addresses.
+        - Dropping duplicate entries.
+        - Reordering and formatting the columns.
+    - The cleaned data is then saved as both CSV and JSON files in the data/processed/[City] directory.
 
 #### Output
 The cleaned and processed data is saved in the following formats:
