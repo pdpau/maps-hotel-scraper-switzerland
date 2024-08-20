@@ -18,8 +18,8 @@ This project automates the process of scraping HOTEL DATA from Google Maps, extr
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/hotel-data-scraper.git
-    cd hotel-data-scraper
+    git clone https://github.com/pdpau/maps-hotel-scraper-switzerland.git
+    cd maps-hotel-scraper-switzerland
     ```
 
 2. Install Node.js dependencies:
