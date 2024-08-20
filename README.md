@@ -4,9 +4,6 @@
 
 This project automates the process of scraping HOTEL DATA from Google Maps, extracting emails from hotel websites, and cleaning the data before saving it into structured formats like CSV and JSON. With just the city name as input, the entire workflow is executed seamlessly.
 
-## Project Structure
----
-
 ## Installation
 
 ### Prerequisites
