@@ -49,6 +49,7 @@ async function scrapeGoogleMaps(query) {
         console.log("Please provide a query");
         return;
     };
+    const city = query.split(" ")[2].charAt(0).toUpperCase() + query.split(" ")[2].slice(1).toLowerCase();
 
     /* --- Array to store the hotels --- */
     let hotels = [];
@@ -73,7 +74,7 @@ async function scrapeGoogleMaps(query) {
         let elements = await resultsSection.$$("div.Nv2PK.THOPZb.CpccDe");
 
         /* --- Scrape the data from every element (hotel) --- */
-        for (let i = 0; i < 60; i++) { // i < elements.length
+        for (let i = 0; i < 25; i++) { // i < elements.length
             console.log("-------------------");
             console.log("-------------------");
             console.log("Length: " + elements.length);
@@ -160,8 +161,8 @@ async function scrapeGoogleMaps(query) {
         }
 
         /* --- Save the data to a JSON and a CSV file --- */
-        returnJSON("../data/raw/" + query + ".json", hotels);
-        returnCSV("../data/raw/" + query + ".csv", hotels);
+        returnJSON("../data/raw/" + city + "/" + query + ".json", hotels);
+        returnCSV("../data/raw/" + city + "/" + query + ".csv", hotels);
         console.log("Data saved to JSON and CSV files");
         //await browser.close();
     } catch (error) {

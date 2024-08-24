@@ -20,7 +20,7 @@ async function main() {
     await scrapeGoogleMaps(search);
 
     await sleep(1000);
-    const hotels_path = `../data/raw/${search}.json`;
+    const hotels_path = `../data/raw/${city}/${search}.json`;
     await sleep(1000);
 
     /* --- Scrape the email from the hotel website --- */

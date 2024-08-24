@@ -27,7 +27,7 @@ no_emails_out = main_df[~main_df["email"].apply(lambda x: x in ["NO_EMAIL", "nan
 no_duplicates = no_emails_out.drop_duplicates()
 
 # 2.4 Reorder columns
-df_ordered = no_duplicates.iloc[:,[0,1,6,3,4,5,8,7,2]]
+df_ordered = no_duplicates.iloc[:,[0,1,6,8,3,4,5,7,2]]
 
 
 # 3. --- Save into csv and json files ---

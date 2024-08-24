@@ -34,7 +34,9 @@ async function scrapeEmailFromWebsite(url) {
 /* --- Main function --- */
 async function scrapeEmails(query) {
     //const query = "hotels in lugano";
-    const hotels_path = "../data/raw/" + query;
+    const city = query.split(" ")[2].charAt(0).toUpperCase() + query.split(" ")[2].slice(1).toLowerCase();
+
+    const hotels_path = "../data/raw/" + city + "/" + query;
     const hotelsArray = JSON.parse(fs.readFileSync(hotels_path + ".json", "utf8"));
 
     try {
