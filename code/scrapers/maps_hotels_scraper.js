@@ -23,6 +23,9 @@ const puppeteer = require("puppeteer");
 
 const { sleep, returnJSON, returnCSV, cleanData } = require("./aux_functions");
 
+const readline = require("readline");
+const { parse } = require("path");
+
 
 /* --- Auxiliary async functions --- */
 async function clickOnElementByText(page, elementType, elementText) {
@@ -51,6 +54,17 @@ async function scrapeGoogleMaps(query) {
     };
     const city = query.split(" ")[2].charAt(0).toUpperCase() + query.split(" ")[2].slice(1).toLowerCase();
 
+    /* --- Ask how many hotels the user wants to scrape --- */
+    const rl = readline.createInterface({
+        input: process.stdin,
+        output: process.stdout
+    });
+    rl.question("How many hotels do you want to scrape? ", (answer) => {
+        const num_hotels = parseInt(answer);
+        console.log("Scraping " + num_hotels + " hotels in " + city);
+        rl.close();
+    });
+
     /* --- Array to store the hotels --- */
     let hotels = [];
 
@@ -74,7 +88,7 @@ async function scrapeGoogleMaps(query) {
         let elements = await resultsSection.$$("div.Nv2PK.THOPZb.CpccDe");
 
         /* --- Scrape the data from every element (hotel) --- */
-        for (let i = 0; i < 25; i++) { // i < elements.length
+        for (let i = 0; i < num_hotels; i++) {
             console.log("-------------------");
             console.log("-------------------");
             console.log("Length: " + elements.length);
