@@ -88,7 +88,7 @@ async function scrapeGoogleMaps(query) {
         let elements = await resultsSection.$$("div.Nv2PK.THOPZb.CpccDe");
 
         /* --- Scrape the data from every element (hotel) --- */
-        for (let i = 0; i < 45; i++) {
+        for (let i = 0; i < 100; i++) {
             console.log("-------------------");
             console.log("-------------------");
             console.log("Length: " + elements.length);
@@ -99,67 +99,73 @@ async function scrapeGoogleMaps(query) {
 
             let hotel = {};
 
-            /* --- Get the hotel name --- */
-            let nameElement = await e.$("div.qBF1Pd.fontHeadlineSmall");
-            if (!nameElement) {
-                // Some elements have this other tag
-                nameElement = await e.$("div.qBF1Pd.fontHeadlineSmall.kiIehc.Hi2drd");
-            }
-            if (nameElement) {
-                let name = await nameElement.evaluate((el) => el.textContent);
-                hotel.name = name;
-                console.log(name);
-            }
+            try {
+                /* --- Get the hotel name --- */
+                let nameElement = await e.$("div.qBF1Pd.fontHeadlineSmall");
+                if (!nameElement) {
+                    // Some elements have this other tag
+                    nameElement = await e.$("div.qBF1Pd.fontHeadlineSmall.kiIehc.Hi2drd");
+                }
+                if (nameElement) {
+                    let name = await nameElement.evaluate((el) => el.textContent);
+                    hotel.name = name;
+                    console.log(name);
+                }
 
-            /* --- Get the category of the local --- */
-            let categoryElement = await e.$$("div.W4Efsd");
-            if (categoryElement) {
-                let category = await categoryElement[1].evaluate((el) => el.textContent);
-                hotel.category = category;
-                console.log(category);
-            }
+                /* --- Get the category of the local --- */
+                let categoryElement = await e.$$("div.W4Efsd");
+                if (categoryElement) {
+                    let category = await categoryElement[1].evaluate((el) => el.textContent);
+                    hotel.category = category;
+                    console.log(category);
+                }
 
-            /* --- Get the number of reviews --- */
-            let reviewsElement = await e.$("span.UY7F9");
-            if (reviewsElement) {
-                let reviews = await reviewsElement.evaluate((el) => el.textContent);
-                hotel.n_reviews = reviews;
-                console.log(reviews);
-            }
+                /* --- Get the number of reviews --- */
+                let reviewsElement = await e.$("span.UY7F9");
+                if (reviewsElement) {
+                    let reviews = await reviewsElement.evaluate((el) => el.textContent);
+                    hotel.n_reviews = reviews;
+                    console.log(reviews);
+                }
 
-            /* --- Click into the element to get the hotel details --- */
-            if (e) {
-                await Promise.all([
-                    e.click(),
-                    page.waitForNavigation({ waitUntil: "networkidle2" })
-                ]);
-            } else {
-                console.log("Element not found");
-            }
-            await sleep(4000);
+                /* --- Click into the element to get the hotel details --- */
+                if (e) {
+                    await Promise.all([
+                        e.click(),
+                        page.waitForNavigation({ waitUntil: "networkidle2" })
+                    ]);
+                } else {
+                    console.log("Element not found");
+                }
+                await sleep(4000);
 
-            /* --- Get the address, website, phone and city (all have the same tag) --- */
-            let details = await page.$$("div.Io6YTe.fontBodyMedium.kR99db", { waitUntil: "networkidle2" });
-            console.log("Details length: " + details.length);
-            if (details.length > 0) {
-                hotel.address = await details[0].evaluate((el) => el.textContent);
-                if (details.length > 1) hotel.website = await details[1].evaluate((el) => el.textContent);
-                if (details.length > 2) hotel.phone = await details[2].evaluate((el) => el.textContent);
-                if (details.length > 3) hotel.city = await details[3].evaluate((el) => el.textContent);
-            } else {
-                console.log("Details not found, closing browser");
-                await browser.close();
-            }
-            /* --- Get the price --- */
-            let priceElement = await page.$("span.fontTitleLarge.Cbys4b");
-            if (priceElement) {
-                let price = await priceElement.evaluate((el) => el.textContent);
-                hotel.price = price;
-            }
+                /* --- Get the address, website, phone and city (all have the same tag) --- */
+                let details = await page.$$("div.Io6YTe.fontBodyMedium.kR99db", { waitUntil: "networkidle2" });
+                console.log("Details length: " + details.length);
+                if (details.length > 0) {
+                    hotel.address = await details[0].evaluate((el) => el.textContent);
+                    if (details.length > 1) hotel.website = await details[1].evaluate((el) => el.textContent);
+                    if (details.length > 2) hotel.phone = await details[2].evaluate((el) => el.textContent);
+                    if (details.length > 3) hotel.city = await details[3].evaluate((el) => el.textContent);
+                } else {
+                    console.log("Details not found, skipping hotel.");
+                    //await browser.close();
+                    continue; // Skip this hotel and go to the next one
+                }
+                /* --- Get the price --- */
+                let priceElement = await page.$("span.fontTitleLarge.Cbys4b");
+                if (priceElement) {
+                    let price = await priceElement.evaluate((el) => el.textContent);
+                    hotel.price = price;
+                }
 
-            /* --- Clean data and push it to the hotels array --- */
-            hotel = cleanData(hotel, "+41"); // Phone prefix for Switzerland
-            hotels.push(hotel);
+                /* --- Clean data and push it to the hotels array --- */
+                hotel = cleanData(hotel, "+41"); // Phone prefix for Switzerland
+                hotels.push(hotel);
+            } catch (error) {
+                console.log(`Error processing hotel ${i + 1}: ${error.message}`);
+                continue; // Skip this hotel and go to the next one
+            }
 
             /* --- Go back to the search results --- */
             await Promise.all([
