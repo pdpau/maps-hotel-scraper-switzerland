@@ -1,0 +1,55 @@
+name,category,city,email,address,website,phone,price,n_reviews
+Alpenhotel Fleurs de Zermatt,Hotel de 4 estrellas,"Zermatt, Suiza",info@fleursdezermatt.ch,"Unterer Mattenweg 41, 3920 Zermatt, Suiza",fleursdezermatt.ch,+41 27 966 31 00,190,447
+Hotel Alpen Resort & SPA,Hotel de 4 estrellas con pistas de tenis y piscina,"Zermatt, Suiza",info@alpenresort.com,"Spissstrasse 52, 3920 Zermatt, Suiza",alpenresort.com,+41 27 966 30 00,307,1309
+Grand Hotel Zermatterhof,Hotel de 5 estrellas de lujo refinado con restaurante y spa,"Zermatt, Suiza",info@zermatterhof.ch,"Bahnhofstrasse 55, 3920 Zermatt, Suiza",zermatterhof.ch,+41 27 966 66 00,385,506
+Hotel Helvetia,Hotel de 2 estrellas,"Zermatt, Suiza",mail@helvetia-zermatt.ch,"Bahnhofstrasse 72, 3920 Zermatt, Suiza",hotel-helvetia-zermatt.ch,+41 27 967 10 20,179,443
+Alpine Hotel Perren,Hotel de 3 estrellas informal con vistas al Cervino,"Zermatt, Suiza",info@hotel-perren.ch,"Vispastrasse 10, 3920 Zermatt, Suiza",hotel-perren.ch,+41 27 966 52 00,229,599
+Peaky Riders,Hotel,NO_CITY,bookings@peakyriders.ch,"Spissstrasse 96, 3920 Zermatt, Suiza",peakyriders.ch,NO_PHONE,175,78
+Hotel Simi,Hotel de 4 estrellas,"Zermatt, Suiza",info@hotelsimi.ch,"Brantschenhaus 20, 3920 Zermatt, Suiza",hotelsimi.ch,+41 27 966 45 00,195,287
+Hotel Alpina,Hotel de 2 estrellas,"Zermatt, Suiza",info@alpinazermatt.ch,"Englischer Viertel 5, 3920 Zermatt, Suiza",alpina-zermatt.ch,+41 27 967 10 50,194,188
+Hotel Mountain Paradise,Hotel de 3 estrellas,"Zermatt, Suiza",info@mountainparadise.ch,"Schluhmattstrasse 130, 3920 Zermatt, Suiza",mountainparadise.ch,+41 27 966 80 40,239,180
+Sonnmatten Restaurant & Suite,Hotel,"Zermatt, Suiza",info@sonnmatten.ch,"Winkelmattenweg 96, 3920 Zermatt, Suiza",sonnmatten.ch,+41 27 967 30 30,159,385
+Backstage Hotel Vernissage,Restaurante · ,"Zermatt, Suiza",info@backstagehotel.ch,"Hofmattstrasse 4, 3920 Zermatt, Suiza",backstagehotel.ch,+41 27 966 69 70,289,353
+Hotel Bella Vista Zermatt,Hotel de 3 estrellas informal con vistas a la montaña,"Zermatt, Suiza",hotel@bellavista-zermatt.ch,"Riedweg 15, 3920 Zermatt, Suiza",bellavista-zermatt.ch,+41 27 966 28 10,279,302
+Hotel Parnass,Hotel de 3 estrellas,"Zermatt, Suiza",welcome@parnass-zermatt.ch,"Vispastrasse 4, 3920 Zermatt, Suiza",parnass-zermatt.ch,+41 27 967 11 79,226,210
+Boutique Hotel Matthiol,Hotel de 4 estrellasElegante hotel rústico y spa tranquilo,"Zermatt, Suiza",info@matthiol.com,"Moosstrasse 40, 3920 Zermatt, Suiza",matthiol.ch,+41 27 968 17 17,377,370
+Hotel & Solebad Arca,Hotel de 3 estrellas,"Zermatt, Suiza",info@hotel-arca.ch,"Spissstrasse 42, 3920 Zermatt, Suiza",hotel-arca.ch,+41 27 967 15 44,226,226
+Hotel Excelsior,Hotel,"Zermatt, Suiza",info@excelsior-zermatt.ch,"Hofmattstrasse 38, 3920 Zermatt, Suiza",excelsior-zermatt.ch,+41 27 966 35 00,243,280
+Albatros,Hotel de 4 estrellas de montaña con spa y desayuno,"Zermatt, Suiza",reception@hotel-albatros.ch,"Steinmattstrasse 93, 3920 Zermatt, Suiza",hotel-albatros.ch,+41 27 966 80 60,258,104
+Hotel Berghof Zermatt,Hotel de 4 estrellas,"Zermatt, Suiza",info@berghof-zermatt.ch,"Winkelmattenweg 18, 3920 Zermatt, Suiza",berghof-zermatt.ch,+41 27 966 69 00,318,133
+Hotel Eden Wellness,Hotel de 4 estrellas,"Zermatt, Suiza",info@hotel-eden.ch,"Riedstrasse 5, 3920 Zermatt, Suiza",hotel-eden.ch,+41 27 967 26 55,275,116
+Mont Cervin Palace,Hotel de 5 estrellas exclusivo con restaurantes y spa,"Zermatt, Suiza",spa@montcervinpalace.ch,"Bahnhofstrasse 31, 3920 Zermatt, Suiza",montcervinpalace.ch,+41 27 966 88 88,774,432
+Hotel Continental,Hotel de 3 estrellas,"Zermatt, Suiza",info@continental-zermatt.ch,"Brantschenhaus 3, 3920 Zermatt, Suiza",continental-zermatt.ch,+41 27 966 28 40,240,243
+Christiania Hotels & Spa,Hotel de 4 estrellas lujoso con restaurante y spa,"Zermatt, Suiza",info@christiania-zermatt.ch,"Wiestistrasse 7, 3920 Zermatt, Suiza",christiania-zermatt.ch,+41 27 966 80 00,324,401
+Hotel Tannenhof,Hotel de 3 estrellas,"Zermatt, Suiza",info@tannenhofzermatt.ch,"Englischer Viertel 3, 3920 Zermatt, Suiza",tannenhofzermatt.ch,+41 27 966 26 90,298,125
+Europe Hotel & Spa Zermatt,Hotel de 4 estrellas,"Zermatt, Suiza",info@europe-zermatt.ch,"Riedstrasse 18, 3920 Zermatt, Suiza",europe-zermatt.ch,+41 27 966 27 00,362,362
+Hotel Pollux,Hotel de 4 estrellas tranquilo con 3 restaurantes,"Zermatt, Suiza",info@hotelpollux.ch,"Bahnhofstrasse 28, 3920 Zermatt, Suiza",hotelpollux.ch,+41 27 966 40 00,277,449
+Boutique Hotel Albana Real - Restaurants & Spa,Wellnesshotel,"Zermatt, Suiza",info@hotelalbanareal.com,"Schluhmattstrasse 19, 3920 Zermatt, Suiza",hotelalbanareal.com,+41 27 966 61 61,301,243
+Hotel Phoenix,Hotel de 3 estrellas alpino exclusivo con bar acogedor,"Zermatt, Suiza",info@hotelphoenix.ch,"u. Wiestistrasse 11, 3920 Zermatt, Suiza",phoenixzermatt.ch,+41 27 968 18 19,292,242
+Hotel Restaurant Derby,Hotel de 3 estrellas pintoresco con restaurante,"Zermatt, Suiza",info@derbyzermatt.ch,"Bahnhofstrasse 22, 3920 Zermatt, Suiza",derbyzermatt.ch,+41 27 966 39 99,243,998
+Naco Apartments & Spa,Hotel,"Zermatt, Suiza",info@naco-zermatt.ch,"Spissstrasse 44, 3920 Zermatt, Suiza",hotel-naco.ch,+41 27 967 15 44,244,99
+BEAUSiTE Zermatt,Hotel,"Zermatt, Suiza",sos@beausitezermatt.ch,"Brunnmattgasse 9, 3920 Zermatt, Suiza",beausitezermatt.ch,+41 27 966 68 68,468,601
+la couronne Hotel & Spa,Hotel de 4 estrellas,NO_CITY,info@hotel-couronne.ch,"Kirchstrasse 17, 3920 Zermatt, Suiza",hotel-couronne.ch,+41 27 966 23 00,380,401
+Resort La Ginabelle,Hotel de 4 estrellas,"Zermatt, Suiza",info@la.ginabelle.ch,"Vispastrasse 52, 3920 Zermatt, Suiza",la.ginabelle.ch,+41 27 966 50 00,405,413
+The Grill,Parrilla · Cierra pronto ⋅ 21:00 ⋅ Apertura: 18:30 (jue),NO_CITY,sos@beausitezermatt.ch,"Brunnmattgasse 9, 3920 Zermatt, Suiza",beausitezermatt.ch,NO_PHONE,368,57
+Hotel Bellerive,Hotel de 3 estrellas,"Zermatt, Suiza",info@bellerive-zermatt.ch,"Riedstrasse 3, 3920 Zermatt, Suiza",bellerive-zermatt.ch,+41 27 966 74 74,371,312
+Chesa Valese Hotel,Hotel de 4 estrellas informal con guardaesquís y spa,"Zermatt, Suiza",info@chesa-valese.ch,"Steinmattstrasse 30, 3920 Zermatt, Suiza",chesa-valese.ch,+41 27 966 80 80,294,151
+Hotel ZERMAMA,Hotel de 4 estrellas,"Zermatt, Suiza",info@zermama.ch,"Matterstrasse 23, 3920 Zermatt, Suiza",zermama.ch,+41 27 966 90 00,411,275
+Hotel Sonne,Hotel de 4 estrellas,"Zermatt, Suiza",info@sonnezermatt.ch,"Metzggasse 35, 3920 Zermatt, Suiza",sonnezermatt.ch,+41 27 966 20 66,339,376
+Alpenlodge,Hotel de 3 estrellas,"Zermatt, Suiza",info@alpenlodge.com,"Zer Bännu 22, 3920 Zermatt, Suiza",alpenlodge.com,+41 27 966 97 97,321,115
+THE OMNIA,Hotel de 5 estrellas señorial con restaurante refinado,"Zermatt, Suiza",info@the-omnia.com,"Auf dem Fels, 3920 Zermatt, Suiza",the-omnia.com,+41 27 966 71 71,0,551
+3100 Kulmhotel Gornergrat,Hotel de 3 estrellas alpino informal con restaurante,"Zermatt, Suiza",gornergrat.kulm@matterhorn-group.ch,"Gornergrat 3100 m, 3920 Zermatt, Suiza",gornergrat-kulm.ch,+41 27 966 64 00,551,1003
+Hotel Bahnhof Zermatt,Hotel,"Zermatt, Suiza",welcome@hotelbahnhofzermatt.com,"Bahnhofpl. 54, 3920 Zermatt, Suiza",hotelbahnhofzermatt.com,+41 27 967 24 06,0,387
+Schweizerhof Zermatt,Hotel de 4 estrellas rústico con spa y restaurantes,"Zermatt, Suiza",info@schweizerhofzermatt.ch,"Bahnhofstrasse 5, 3920 Zermatt, Suiza",schweizerhofzermatt.ch,+41 27 966 00 00,0,419
+Bergrestaurant Simi,SuizaCerrado ⋅ Apertura: 10:00 (jue),"Zermatt, Suiza",info@restaurantsimi.ch,"Furi 4, 3920 Zermatt, Suiza",restaurantsimi.ch,+41 27 967 26 95,232,152
+Jägerhof Hotel & Apartements,Hotel de 3 estrellas,"Zermatt, Suiza",info@jaegerhofzermatt.ch,"Steinmattstrasse 85, 3920 Zermatt, Suiza",jaegerhofzermatt.ch,+41 27 966 38 00,0,300
+Hotel Testa Grigia,Hotel de 3 estrellas con Wi-Fi y desayuno gratuitos,"Zermatt, Suiza",info@testa-grigia.com,"Bahnhofstrasse 21, 3920 Zermatt, Suiza",testa-grigia.com,+41 27 966 79 00,0,363
+Hotel Firefly,Hotel de 4 estrellas,"Zermatt, Suiza",info@firefly-zermatt.ch,"Schluhmattstrasse 55, 3920 Zermatt, Suiza",firefly-zermatt.ch,+41 27 967 76 76,0,300
+Matterhornblick Hotel,Hotel de 3 estrellas,"Zermatt, Suiza",info@matterhornblick.ch,"Kirchstrasse 38, 3920 Zermatt, Suiza",matterhornblick.ch,+41 27 967 20 17,0,83
+Silvana Mountain Hotel,Hotel,"Zermatt, Suiza",info@hotelsilvana.ch,"Furi 265, 3920 Zermatt, Suiza",hotelsilvana.ch,+41 27 966 28 00,0,254
+Romantica,Hotel de 3 estrellas con vistas a la montaña y bar,"Zermatt, Suiza",info@romantica-zermatt.ch,"Chrum 21, 3920 Zermatt, Suiza",romantica-zermatt.ch,+41 27 966 26 50,0,157
+Mazot Zermatt - Hotel | Grill-Restaurant | Bar,Hotel,"Zermatt, Suiza",info@cloudrexx.com,"Hofmattstrasse 23, 3920 Zermatt, Suiza",mazot-zermatt.ch,+41 27 966 06 06,0,103
+Hotel Alpenroyal,Hotel de 3 estrellas informal con piscina y restaurante,"Zermatt, Suiza",info@alpenroyal.ch,"Riedweg 96, 3920 Zermatt, Suiza",alpenroyal.ch,+41 27 966 60 66,0,238
+Antares,Hotel,"Zermatt, Suiza",customercare@localsearch.ch,"Schluhmattstrasse 101, 3920 Zermatt, Suiza",yellow.local.ch,+41 27 967 36 64,0,174
+Zermatt Budget Rooms,Hotel económico y funcional con acceso a un spa,NO_CITY,info@zermattbudgetrooms.com,"c/o Alpen Resort, Spissstrasse 52, 3920 Zermatt, Suiza",zermattbudgetrooms.com,+41 27 966 30 00,0,191
+Hotel Gornergrat-Dorf,Hotel informal con bar y restaurante,"Zermatt, Suiza",info@gornergrat.com,"Bahnhofstrasse 1, 3920 Zermatt, Suiza",gornergrat.com,+41 27 966 39 20,0,122
