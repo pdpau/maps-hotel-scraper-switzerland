@@ -143,8 +143,9 @@ function cleanData(hotel, phonePrefix) {
             cleanCity = cleanCity.trim();
         }
     }
-    // Clean Price (Clean the space between the price and the currency)
+    // Clean Price (Clean the possible points and the space between the price and the currency)
     if (cleanPrice && cleanPrice !== "") {
+        cleanPrice = cleanPrice.replace(".", "").replace(",", "");
         let parts = cleanPrice.split(" "); // Don't change this space, it's a special character
         if (parts.length > 1) {
             cleanPrice = parts[0].trim() + parts[1].trim();
