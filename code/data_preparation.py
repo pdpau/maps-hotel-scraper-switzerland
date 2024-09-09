@@ -17,7 +17,7 @@ main_df.index += 1
 
 # 2.1 Change data types
 main_df = main_df.astype(str)
-main_df["n_reviews"] = main_df["n_reviews"].astype(int)
+main_df["n_reviews"] = main_df["n_reviews"].str.replace(".0", "").str.replace("nan", "0").astype(int)
 main_df["price"] = main_df["price"].str.replace("€", "").str.replace("nan", "0").astype(int)
 
 # 2.2 Drop hotels with no email
