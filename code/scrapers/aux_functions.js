@@ -3,13 +3,27 @@ const fs = require("fs");
 /* --- Auxiliary functions --- */
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+function createDirectory(filePath) {
+    const dir = path.substring(0, filePath.lastIndexOf("/")); // Get the directory without the file name
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, {recursive: true})
+    }
+}
+
 function returnJSON(path, data) {
+    /* Create directory if doesn't exist */
+    createDirectory(path);
+
+    /* Save the data as a JSON file */
     fs.writeFileSync(path, JSON.stringify(data, null, 2), (err) => {
         if (err) throw err;
         console.log("Data written to file " + path);
     });
 }
 function returnCSV(path, data) {
+    /* Create the directory if it doesn't exist */
+    createDirectory(path);
+
     /* Check if data is not empty */
     if (data.length === 0) {
         console.error("Data is empty");

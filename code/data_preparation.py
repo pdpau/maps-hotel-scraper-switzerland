@@ -2,6 +2,7 @@
 
 # 0. --- Import libraries ---
 import sys
+import os
 import pandas as pd
 
 # 1. --- Import data and create a dataframe ---
@@ -33,10 +34,15 @@ df_ordered = no_duplicates.iloc[:,[0,1,6,3,8,4,5,7,2]]
 # 3. --- Save into csv and json files ---
 df = df_ordered.copy()
 
+# 3.1 Create the output directory if it doesn't exist and the filename
+output_dir = f"../data/processed/{city}"
+os.makedirs(output_dir, exist_ok=True)
+
 filename = "hotels_" + city.lower()
-# 3.1 Save into csv
-output_path_csv = "../data/processed/" + city + "/" + filename + ".csv"
+
+# 3.2 Save into csv
+output_path_csv = os.path.join(output_dir, filename + ".csv")
 df.to_csv(output_path_csv, index=False)
-# 3.2 Save into json
-output_path_json = "../data/processed/" + city + "/" + filename + ".json"
+# 3.3 Save into json
+output_path_json = os.path.join(output_dir, filename + "json")
 df.to_json(output_path_json, orient="records")
