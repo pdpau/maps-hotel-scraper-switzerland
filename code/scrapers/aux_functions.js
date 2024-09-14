@@ -3,7 +3,7 @@ const fs = require("fs");
 /* --- Auxiliary functions --- */
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-function createDirectory(filePath) {
+function createDirectory(filePath) { // TODO: Not working properly
     const dir = path.substring(0, filePath.lastIndexOf("/")); // Get the directory without the file name
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, {recursive: true})
