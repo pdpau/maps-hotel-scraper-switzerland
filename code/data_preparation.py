@@ -22,7 +22,7 @@ main_df["n_reviews"] = main_df["n_reviews"].str.replace(".0", "").str.replace("n
 main_df["price"] = main_df["price"].str.replace("€", "").str.replace("nan", "0").astype(int)
 
 # 2.2 Drop hotels with no email
-no_emails_out = main_df[~main_df["email"].apply(lambda x: x in ["NO_EMAIL", "nan"])]
+no_emails_out = main_df[~main_df["email"].apply(lambda x: x in ["nan"])] # Don't delete the hotels with NO_EMAIL
 
 # 2.3 Drop duplicate hotels
 no_duplicates = no_emails_out.drop_duplicates()
