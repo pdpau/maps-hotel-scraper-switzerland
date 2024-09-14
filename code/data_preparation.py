@@ -44,5 +44,5 @@ filename = "hotels_" + city.lower()
 output_path_csv = os.path.join(output_dir, filename + ".csv")
 df.to_csv(output_path_csv, index=False)
 # 3.3 Save into json
-output_path_json = os.path.join(output_dir, filename + "json")
+output_path_json = os.path.join(output_dir, filename + ".json")
 df.to_json(output_path_json, orient="records")
