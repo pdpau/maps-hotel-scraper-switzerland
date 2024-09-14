@@ -1,0 +1,75 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Grand Hotel Des Bains Kempinski St. Moritz,Hotel de 5 estrellas lujoso con spa y restaurantes,"Sankt Moritz, Suiza","Via Mezdi 27, 7500 St. Moritz, Suiza",email@example.com,kempinski.com,+41 81 838 38 38,499,900
+Hotel Giardino Mountain,Hotel de 5 estrellas,"Sankt Moritz, Suiza","Via Maistra 3, 7512 St Moritz, Suiza",reservation@giardino.ch,giardinohotels.ch,+41 81 836 63 00,216,202
+Berghotel Randolins St. Moritz,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Curtins 2, 7500 St. Moritz, Suiza",willkommen@randolins.ch,randolins.ch,+41 81 830 83 83,234,419
+Hotel Soldanella,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Somplaz 17, 7500 St. Moritz, Suiza",info@hotel-soldanella.ch,hotel-soldanella.ch,+41 81 830 85 00,231,382
+Hotel GRACE LA MARGNA ST MORITZ,Hotel de 5 estrellas rústico con restaurante refinado,"Sankt Moritz, Suiza","Via Serlas 5, 7500 St. Moritz, Suiza",info@gracehotels.com,gracehotels.com,+41 81 832 22 10,601,117
+Art Boutique Hotel Monopol,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Maistra 17, 7500 St Moritz, Suiza",artboutique@monopol.ch,monopol.ch,+41 81 837 04 04,334,301
+Suvretta House,Hotel de 5 estrellas,"Sankt Moritz, Suiza","Via Chasellas 1, 7500 St. Moritz, Suiza",info@suvrettahouse.ch,suvrettahouse.ch,+41 81 836 36 36,614,508
+Hotel Piz,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via dal Bagn 6, 7500 St. Moritz, Suiza",info@piz-stmoritz.ch,piz-stmoritz.ch,+41 81 832 11 11,271,638
+ALL IN ONE HOTEL INN LODGE,Posada,"Celerina/Schlarigna, Suiza","Via Nouva 3, 7505 Celerina/Schlarigna, Suiza",info@cs2.ch,innlodge.ch,+41 81 834 47 95,138,398
+Hotel Chesa Languard,Hotel con vistas al lago St. Moritz,"Sankt Moritz, Suiza","Via Veglia 14, 7500 St. Moritz, Suiza",NO_EMAIL,hotel-languard.ch,+41 81 833 31 37,254,190
+Cresta Palace Hotel,Hotel de 4 estrellas chic con spa y restaurantes,"Celerina/Schlarigna, Suiza","St. Moritz CH, Via Maistra 75, 7505 Celerina/Schlarigna, Suiza",welcome@crestapalace.ch,crestapalace.ch,+41 81 836 56 56,269,312
+Hauser Hotel St. Moritz,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Traunter plazzas 7, 7500 St. Moritz, Suiza",relax@hotelhauser.ch,hotelhauser.ch,+41 81 837 50 50,299,1812
+Crystal,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Traunter plazzas 1, 7500 St. Moritz, Suiza",stay@crystalhotel.ch,crystalhotel.ch,+41 81 836 26 26,372,397
+Hotel Reine Victoria,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Rosatsch 18, 7500 St. Moritz, Suiza",NO_EMAIL,laudinella.ch,+41 81 553 90 00,315,740
+Hotel Nolda,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Crasta 3, 7500 St. Moritz, Suiza",info@nolda.ch,nolda.swiss-hotels-stmoritz.ch,+41 81 833 05 75,183,290
+Hotel Europa St. Moritz,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Suot Chesas 9, 7512 St. Moritz, Suiza",info@hotel-europa.ch,hotel-europa.ch,+41 81 839 55 55,209,167
+Hotel San Gian,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via San Gian 23, 7500 St. Moritz, Suiza",info@sangian.ch,swiss-hotels-stmoritz.ch,+41 81 837 09 09,258,380
+Hotel Steffani,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Traunter plazzas 6, 7500 St. Moritz, Suiza",info@steffani.ch,steffani.ch,+41 81 836 96 96,370,931
+Hotel Restaurant Pizzeria Sonne,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Sela 11, 7500 St. Moritz, Suiza",hotel@sonne-stmoritz.ch,sonne-stmoritz.ch,+41 81 838 59 59,318,1075
+Hostel St. Moritz,Ostello della gioventù,"Sankt Moritz, Suiza","Via Surpunt 60, 7500 St Moritz, Suiza",NO_EMAIL,youthhostel.ch,+41 81 836 61 11,130,662
+Hotel Cervus St. Moritz,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Giovanni Segantini 32, 7500 St. Moritz, Suiza",info@hotel-cervus.ch,hotel-cervus.ch,+41 81 385 00 00,220,122
+Hotel Chesa Spuondas,Hotel,"Sankt Moritz, Suiza","Via Somplaz 47, 7500 St. Moritz, Suiza",spuondas@projuventute.ch,chesaspuondas.ch,+41 81 833 65 88,147,96
+Hotel Bären,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Maistra 50, 7500 St Moritz, Suiza",stmoritz@hotelbaeren.com,hotelbaeren.com,+41 81 830 84 00,275,220
+Hotel Casa Franco,Hotel,"Sankt Moritz, Suiza","Via Sela 11, 7500 St. Moritz, Suiza",hotel@sonne-stmoritz.ch,sonne-stmoritz.ch,+41 81 838 59 59,221,83
+Hotel Restaurant Corvatsch,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Tegiatscha 1, 7500 St. Moritz, Suiza",NO_EMAIL,laudinella.ch,+41 81 837 57 57,245,220
+Badrutt's Palace Hotel St. Moritz,Hotel de 5 estrellas de lujo con habitaciones refinadas,"Sankt Moritz, Suiza","Via Serlas 27, 7500 St. Moritz, Suiza",reservations@badruttspalace.com,badruttspalace.com,+41 81 837 10 00,0,1162
+River Inn,Bed & Breakfast,"Sankt Moritz, Suiza","Via San Gian 48, 7500 St. Moritz, Suiza",info@riverinn.ch,riverinn.ch,+41 81 833 41 31,191,111
+Giardino Bed & Breakfast,Hotel,"Silvaplana, Suiza","Via Maistra 3, 7512 Silvaplana, Suiza",reservation@giardino.ch,giardinohotels.ch,+41 800 333 313,200,31
+Randolins Familienresort St. Moritz,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Curtins 2b, 7500 St. Moritz, Suiza",willkommen@randolins.ch,randolins-familienresort.ch,+41 81 830 83 84,325,91
+Chesa Albris,Bed & Breakfast,"Sankt Moritz, Suiza",NO_ADDRESS,allegra@engadin.ch,engadin.stmoritz.ch,+41 81 833 54 65,133,58
+Hotel Chesa Rosatsch,Hotel de 4 estrellas,"Celerina/Schlarigna, Suiza","Via S. Gian 7, 7505 Celerina/Schlarigna, Suiza",hotel@rosatsch.ch,rosatsch.ch,+41 81 837 01 01,271,280
+Hotelino Petit Chalet,Hotel de 4 estrellas,"Celerina/Schlarigna, Suiza","Via Pradè 22, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,petit-chalet.ch,+41 81 833 26 26,308,67
+Kulm Hotel St. Moritz,Hotel de 5 estrellas,"Sankt Moritz, Suiza","Via Veglia 18, 7500 St. Moritz, Suiza",NO_EMAIL,kulm.com,+41 81 836 80 00,0,694
+Hotel Bellavista,Hotel de 4 estrellas,"Silvaplana, Suiza","Via da l'Alp 6, 7513 Silvaplana, Suiza",NO_EMAIL,bellavista.ch,+41 81 838 60 50,306,376
+Hotel Restaurant Waldhaus am See,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Dimlej 6, 7500 St. Moritz, Suiza",info@waldhaus-am-see.ch,waldhaus-am-see.ch,+41 81 836 60 00,0,882
+Nira Alpina,Hotel de 4 estrellas,"Silvaplana, Suiza","Via dal Corvatsch 76, 7513 Silvaplana, Suiza",info@niraalpina.com,niraalpina.com,+41 81 838 69 69,283,398
+Chesa Surlej,Hotel de 3 estrellas,"Silvaplana, Suiza","Via dal Corvatsch 30, 7513 Silvaplana, Suiza",NO_EMAIL,chesa-surlej.ch,+41 81 838 75 75,200,216
+Conrad’s Mountain Lodge,Lodge,"Silvaplana, Suiza","Via dal Farrer 1, 7513 Silvaplana, Suiza",mail@cm-lodge.com,conradsmountainlodge.com,+41 81 828 83 83,255,334
+Hotel Laudinella St. Moritz,Hotel de 4 estrellas,"Sankt Moritz, Suiza","Via Tegiatscha 17, 7500 St. Moritz, Suiza",NO_EMAIL,laudinella.ch,+41 81 836 00 00,0,1669
+Club Med Saint-Moritz - Swiss Alps,Hotel de 2 estrellas,"Sankt Moritz, Suiza","Via Tegiatscha 21, 7500 St. Moritz, Suiza",NO_EMAIL,clubmed.com,+41 81 833 23 23,0,658
+Romantik Hotel Muottas Muragl,Hotel,"Samedan, Suiza","Punt Muragl 3, 7503 Samedan, Suiza",info@cs2.ch,muottasmuragl.ch,+41 81 842 82 32,291,385
+Albana Hotel,Hotel de 4 estrellas,"Silvaplana, Suiza","Via vers Mulin 5, 7513 Silvaplana, Suiza",hotel@hotelalbana.ch,hotelalbana.ch,+41 81 838 78 78,263,272
+Hotel St. Moritz,Hotel de 3 estrellas,"Bellaria-Igea Marina, Provincia de Rímini, Italia",+39 0541 344604,info@hgshotel.com,hotelstmoritzrimini.com,NO_PHONE,52,466
+Kempinski Residences,Hotel,"Sankt Moritz, Suiza","Via Mezdi 35, 7500 St. Moritz, Suiza",info@kempinski-residences.ch,kempinski-residences.ch,+41 81 833 30 63,0,29
+Hotel Salastrains,Hotel de 3 estrellas,"Sankt Moritz, Suiza","Via Salastrains 12, 7500 St. Moritz, Suiza",NO_EMAIL,salastrains.ch,+41 81 830 07 07,0,302
+Boutique Hotel Arte,Hotel,"Sankt Moritz, Suiza","Via Tinus 7, 7500 St. Moritz, Suiza",hotel@arte-stmoritz.ch,arte.swiss-hotels-stmoritz.ch,+41 81 837 58 58,0,250
+Arsa Lodge Silvaplana,Hotel,"Silvaplana, Suiza","Via Maistra, 7513 Silvaplana, Suiza",hotel@hotelalbana.ch,arsalodge.com,+41 81 838 78 78,325,37
+Hotel Eden St. Moritz,Hotel informal con restaurante y bar,"Sankt Moritz, Suiza","Via Veglia 12, 7500 St. Moritz, Suiza",NO_EMAIL,kaberne.wixsite.com,+41 81 865 98 38,0,112
+Hotel Saluver AG,"Hotel de 3 estrellas con vistas a los Alpes, restaurante y sauna","Celerina/Schlarigna, Suiza","Via Maistra 128, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,saluver.ch,+41 81 833 13 14,339,191
+Terminus Hotel & Restaurant,Hotel,"Samedan, Suiza","Via Retica 24, 7503 Samedan, Suiza",NO_EMAIL,terminus-samedan.ch,+41 81 852 53 36,305,414
+Hotel Palazzo Mysanus,Hotel,"Samedan, Suiza","Crappun 26, 7503 Samedan, Suiza",NO_EMAIL,palazzo-mysanus.ch,+41 81 852 10 80,257,81
+Hotel Privata,Hotel de 3 estrellas,"Sils im Engadin/Segl, Suiza","Via da Marias 83, 7514 Sils im Engadin/Segl, Suiza",info@hotelprivata.ch,hotelprivata.ch,+41 81 832 62 00,287,73
+Hotel Restaurant Alte Brauerei,Hotel de 3 estrellas,"Celerina/Schlarigna, Suiza","Via Maistra 60, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,alte-brauerei.ch,+41 81 832 18 74,0,339
+Chesa Muragls,Alojamiento en interiores,NO_CITY,"Via Maistra 1, 7504 Pontresina, Suiza",NO_EMAIL,muragls.tripcombined.com,NO_PHONE,372,5
+Veltlinerkeller,Restaurante · ,"Sankt Moritz, Suiza","Via dal Bagn 11, 7500 St. Moritz, Suiza",veltlinerkeller@bluewin.ch,veltlinerkeller-stmoritz.ch,+41 81 833 40 09,0,446
+Appartementhaus Residenz am See,Edificio de apartamentos · ,"Sankt Moritz, Suiza","Via Sela 3, 7500 St. Moritz, Suiza",NO_EMAIL,residenzamsee.ch,+41 81 833 64 64,0,50
+Schloss Hotel & Spa Pontresina,Hotel de 4 estrellas,"Pontresina, Suiza","Via Maistra 94, 7504 Pontresina, Suiza",booking@schlosshotelpontresina.com,schlosshotelpontresina.com,+41 76 558 09 64,0,169
+Hotel Stille,Hotel de larga estancia,"Sankt Moritz, Suiza","Via Surpunt 62, 7500 St Moritz, Suiza",hotel.stille@hotelstille.ch,hotelstille.ch,+41 81 833 69 48,0,164
+"Mountain Flair Apartments, Ferienwohnung Haus am Inn",Agencia de alquiler de alojamientos para vacaciones,"Sankt Moritz, Suiza","Via San Gian 26, 7500 St. Moritz, Suiza",info@mountainflair.ch,mountainflair.ch,+41 81 284 26 26,0,1
+Camping St. Moritz,Camping · ,"Sankt Moritz, Suiza","Via San Gian 55, 7500 St. Moritz, Suiza",info@camping-stmoritz.ch,camping-stmoritz.ch,+41 81 833 40 90,0,451
+Valentin,Bed & Breakfast,"Sankt Moritz, Suiza","Plazza dal Mulin 4, 7500 St. Moritz, Suiza",p.tschenett@valentin-bnb.ch,valentin-bnb.ch,+41 81 833 08 96,0,5
+Aladin Appartments St.Moritz,Edificio de apartamentos · ,"Sankt Moritz, Suiza","Via Surpunt 62, 7500 St Moritz, Suiza",hotel.stille@hotelstille.ch,hotelstille.ch,+41 81 833 69 48,0,46
+Carlton Hotel St. Moritz,Hotel de 5 estrellasCerrado temporalmente,"Sankt Moritz, Suiza","Via Johannes Badrutt 11, 7500 St. Moritz, Suiza",NO_EMAIL,carlton-stmoritz.ch,+41 81 836 70 00,0,137
+Hotel Station,Hotel de 3 estrellas,"Pontresina, Suiza","Cuntschett 2, 7504 Pontresina, Suiza",stay@station-pontresina.ch,station-pontresina.ch,+41 81 838 80 00,0,314
+Aruons,nan,"Sankt Moritz, Suiza","Via Aruons 21, 7500 St. Moritz, Suiza",NO_EMAIL,aruons.tripcombined.com,+41 81 833 37 96,0,0
+Chesa Sur Val,Alojamiento,NO_CITY,"Switzerland, Via Ruinatsch 5, 7500 St. Moritz, Suiza",NO_EMAIL,chesa-sur-val.com.es,NO_PHONE,0,8
+Suot Larsch,Alojamiento en interiores,NO_CITY,"Vietta Palintschnieu 17, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,suotlarsch.tripcombined.com,NO_PHONE,0,1
+Bellaval,Alojamiento en interiores,NO_CITY,"Vietta Grevas 10, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,bellaval.tripcombined.com,NO_PHONE,0,0
+TCS Camping Samedan,Camping · ,"Samedan, Suiza","Via Da Puntraschigna 56, 7503 Samedan, Suiza",NO_EMAIL,tcs-camping.ch,+41 81 842 81 97,0,227
+Duos Sours,Alojamiento en interiores,"Celerina/Schlarigna, Suiza","Chesa Curtinagla A, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,duossours.tripcombined.com,+41 81 833 40 20,0,0
+Hostel 69,Albergue,"Silvaplana, Suiza","Via dal Corvatsch Restaurantgebäude, 7513 Silvalana, Suiza",NO_EMAIL,silvaplana.traveleto.com,+41 81 828 82 12,0,0
+Grischalva 2,Alojamiento,NO_CITY,"Via Pradè 11, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,unterkunftschweiz.ch,NO_PHONE,0,1
+Marmotta,Alojamiento en interiores,"Celerina/Schlarigna, Suiza","Via S. Gian 13, 7505 Celerina/Schlarigna, Suiza",NO_EMAIL,marmotta.tripcombined.com,NO_PHONE,0,0
+Chesa Silva,Hotel de larga estancia,"Silvaplana, Suiza","Via Munterots 1, 7513 Silvaplana, Suiza",reservation@chesasilva.ch,chesasilva.ch,+41 81 838 61 00,0,7
