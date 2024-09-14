@@ -12,7 +12,7 @@ function createDirectory(filePath) { // TODO: Not working properly
 
 function returnJSON(path, data) {
     /* Create directory if doesn't exist */
-    createDirectory(path);
+    //createDirectory(path);
 
     /* Save the data as a JSON file */
     fs.writeFileSync(path, JSON.stringify(data, null, 2), (err) => {
@@ -22,7 +22,7 @@ function returnJSON(path, data) {
 }
 function returnCSV(path, data) {
     /* Create the directory if it doesn't exist */
-    createDirectory(path);
+    //createDirectory(path);
 
     /* Check if data is not empty */
     if (data.length === 0) {
