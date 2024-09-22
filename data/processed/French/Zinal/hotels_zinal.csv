@@ -1,0 +1,20 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Reka-Feriendorf Zinal,Apartamento turístico · Tracuit 3,"Zinal, Anniviers, Suiza","Tracuit 3, 3961 Zinal, Suiza",NO_EMAIL,reka.ch,+41 27 475 14 36,0,210
+Hôtel - Restaurant Europe,Hotel,"Zinal, Anniviers, Suiza","Rue des Cinq 4000, 3961 Zinal, Suiza",NO_EMAIL,europezinal.ch,+41 27 475 44 04,198,329
+Pension de la poste,Hotel,"Zinal, Anniviers, Suiza","Hôtel familiale de troisième génération Familles Bonnard-Chevallaz, Rue Montferrier 29, 3961 Zinal, Suiza",NO_EMAIL,lapostezinal.ch,+41 27 475 11 87,158,144
+Hôtel - Restaurant Les Bouquetins,Hotel,"Zinal, Anniviers, Suiza","Pétérey 2, 3961 Zinal, Suiza",NO_EMAIL,valdanniviers.ch,+41 27 475 25 09,187,111
+Hôtel - Restaurant Le Besso,Hotel,"Zinal, Anniviers, Suiza","Rue des Cinq 4000, 3961 Zinal, Suiza",NO_EMAIL,le-besso.ch,+41 27 475 31 65,144,187
+SWISSPEAK Resorts Zinal,Hotel,"Zinal, Anniviers, Suiza","Route des cinq 4000, 24, 3961 Zinal, Suiza",info@swisspeakresorts.com,swisspeakresorts.com,+41 58 255 87 02,0,144
+Hôtel-Restaurant de Moiry,Hotel de 3 estrellas,"Grimentz, Suiza","Rue du Village 24, 3961 Grimentz, Suiza",info@hotel-grimentz.ch,hotel-grimentz.ch,+41 27 475 11 44,136,480
+Restaurant Alpina,Restaurante · ,"Zinal, Anniviers, Suiza","Pétérey, 3961 Zinal, Suiza",NO_EMAIL,auberge-alpina.ch,+41 27 475 12 24,0,110
+Hotel Grand Chalet Favre,Hotel con restaurante en un valle,"Saint-Luc, Suiza","Pl. de l'Église 8, 3961 Saint-Luc, Suiza",info@grandchaletfavre.ch,grandchaletfavre.ch,+41 27 475 11 28,154,161
+Hôtel Restaurant Eden,Restaurante,"Evolène, Suiza","Rte Principale 114, 1983 Evolène, Suiza",info@edenalp.ch,edenalp.ch,+41 27 283 18 18,103,116
+"Grand Hôtel & Kurhaus, Arolla",Hotel de 3 estrellas,"Evolène, Suiza","Route de la Forêt 6, 1986 Evolène, Suiza",NO_EMAIL,grandhotelkurhaus.com,+41 27 283 70 00,121,372
+Hôtel Cristal,Hotel,"Grimentz, Suiza","Rte de Moiry 64, 3961 Grimentz, Suiza",NO_EMAIL,cristal-grimentz.ch,+41 27 475 43 06,166,182
+La Gouille - Pension du Lac Bleu,Restaurante,"Arolla, Evolène, Suiza","Gouille 1, 1984 Arolla, Suiza",contact@lagouille.com,pension-du-lac-bleu.ch,+41 27 283 11 66,112,359
+Alpenhotel Fleurs de Zermatt,Hotel de 4 estrellas,"Zermatt, Suiza","Unterer Mattenweg 41, 3920 Zermatt, Suiza",info@fleursdezermatt.ch,fleursdezermatt.ch,+41 27 966 31 00,171,454
+Grand Hôtel du Cervin,Hotel informal con vistas a la montaña,"Saint-Luc, Suiza","Rue du Cervin 29, 3961 Saint-Luc, Suiza",info@grandhotelducervin.ch,grandhotelducervin.ch,+41 27 475 20 00,124,92
+Hotel Alpen Resort & SPA,Hotel de 4 estrellas con pistas de tenis y piscina,"Zermatt, Suiza","Spissstrasse 52, 3920 Zermatt, Suiza",info@alpenresort.com,alpenresort.com,+41 27 966 30 00,303,1317
+Hotel Walliserhof,Hotel de 3 estrellas,"Täsch, Suiza","Kantonsstrasse, 3929 Täsch, Suiza",info@taesch-walliserhof.ch,taesch-walliserhof.ch,+41 27 966 39 66,166,240
+Matterhorn Inn,Hotel de 3 estrellas informal con restaurante y spa,"Zermatt, Suiza","Kantonsstrasse 171 3929 Täsch, Zermatt, Suiza",info@matterhorn-inn.com,matterhorn-inn.com,+41 27 966 26 44,196,923
+Peaky Riders,Hotel,NO_CITY,"Spissstrasse 96, 3920 Zermatt, Suiza",bookings@peakyriders.ch,peakyriders.ch,NO_PHONE,139,84

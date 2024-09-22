@@ -1,0 +1,49 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Hotel Walliserhof,Hotel de 3 estrellas luminoso con spa y restaurante,"Grächen, Suiza","Dorfpl. 1, 3925 Grächen, Suiza",NO_EMAIL,hotel-walliserhof.ch,+41 27 956 11 22,204,190
+Hotel Gädi,Hotel,"Grächen, Suiza","Bärgjistrasse 466, 3925 Grächen, Suiza",info@hotel-gaedi.ch,hotel-gaedi.ch,+41 27 956 18 28,216,209
+Lifestyle & Spa Hotel Grächerhof / La Torre Restaurant,Hotel de 3 estrellas,"Grächen, Suiza","Wildi 467, 3925 Grächen, Suiza",NO_EMAIL,graecherhof.ch,+41 27 956 25 15,233,224
+Family Hotel & Spa Desirée,Hotel de 3 estrellas,"Grächen, Suiza","Dorfweg 462, 3925 Grächen, Suiza",info@hoteldesiree.ch,hoteldesiree.ch,+41 27 956 30 60,227,164
+Hotel Alpha,Hotel de 3 estrellas,"Grächen, Suiza","Kantonsstrasse 457, 3925 Grächen, Suiza",NO_EMAIL,alpha-graechen.com,+41 27 956 13 01,131,44
+Hotel Eden,Hotel de 3 estrellas funcional con guardaesquís,"Grächen, Suiza","Dorfweg 465, 3925 Grächen, Suiza",info@eden-hotel.ch,eden-hotel.ch,+41 27 956 26 66,187,43
+Boutiquehotel / Restaurant Walliserkanne,Restaurante · ,"Grächen, Suiza","Dorfstrasse 492, 3925 Grächen, Suiza",info@walliserkanne-graechen.ch,walliserkanne-graechen.ch,+41 27 956 25 91,271,391
+Hotel zum See Antonius Schnidrig,Hotel,"Grächen, Suiza","Hotel Zum See, 3925 Grächen, Suiza",info@hotel-zum-see.ch,hotel-zum-see.ch,+41 27 956 24 24,177,52
+Restaurant Gädi,Alta cocina · Cerrado ⋅ Apertura: 18:30 (lun),NO_CITY,"Bärgjistrasse 466, 3925 Grächen, Suiza",info@hotel-gaedi.ch,hotel-gaedi.ch,NO_PHONE,217,22
+B&B Hotel Alpina,Hotel,"Grächen, Suiza","Dorfpl., 3925 Grächen, Suiza",NO_EMAIL,mauriciostraveltips.com,+41 27 955 26 00,212,59
+Hotel Restaurant Edelbock,Hotel,"Grächen, Suiza","Hofen 454, 3925 Grächen, Suiza",NO_EMAIL,edelbock.ch,+41 27 517 87 35,212,4
+Room`s chez BeNi,Bed & Breakfast,"Grächen, Suiza","Grossmeierschhüs 456, 3925 Grächen, Suiza",NO_EMAIL,chez-beni.ch,+41 27 956 11 16,164,88
+Mountain Lodge,Bed & Breakfast,"Grächen, Suiza","Dorfpl. 476, 3925 Grächen, Suiza",NO_EMAIL,mountain-lodge-graechen.ch,+41 79 342 51 19,240,6
+BNB Hotel Alpenrösli,Bed & Breakfast,"Gasenried, Sankt Niklaus, Suiza","Ried 87, 3924 Gasenried, Suiza",info@bnb-alpenroesli.ch,bnb-alpenroesli.ch,+41 78 217 72 59,132,53
+Hotel Heimatlodge,Bed & Breakfast,"Sankt Niklaus, Suiza","Dorfstrasse 24, 3924 St. Niklaus, Suiza",info@heimatlodge.ch,heimatlodge.ch,+41 27 966 26 96,152,83
+Alte Bock 2.0,Hotel,"Grächen, Suiza","Schmidji 463, 3925 Grächen, Suiza",NO_EMAIL,alte-bock.ch,+41 27 956 36 57,0,33
+Hotel la Réserve,Hotel,"Sankt Niklaus, Suiza","Stock, 3924 St. Niklaus, Suiza",info@la-reserve.ch,la-reserve.ch,+41 27 955 22 55,153,305
+Hotel Restaurant Weisshorn,Hotel,"Törbel, Suiza","Moosalpstrasse 96, 3923 Törbel, Suiza",info@berghotel-weisshorn.ch,berghotel-weisshorn.ch,+41 27 952 21 34,181,105
+Hotel Restaurant Ackersand,Hotel,"Stalden, Suiza","Talstrasse 28, 3922 Stalden, Suiza",info@hotel-ackersand.ch,hotel-ackersand.ch,+41 27 953 15 00,179,210
+Zimmervermietung Ackersand,Privatunterkunft,"Stalden, Suiza","Ackersand 2, 3922 Stalden, Suiza",info@zimmervermietung-ackersand.ch,zimmervermietung-ackersand.ch,+41 27 952 18 29,124,33
+Walliserhof Grand-Hotel & Spa Saas-Fee,Hotel de 5 estrellas exclusivo con spa y vistas al glaciar,"Saas-Fee, Suiza","Dorfweg 1, 3906 Saas-Fee, Suiza",info@walliserhof-saasfee.ch,walliserhof-saasfee.ch,+41 27 958 19 00,368,535
+Hotel Rothorn,Hotel,"Visperterminen, Suiza","Bodmumattenstrasse, 3932 Visperterminen, Suiza",info@hotel-rothorn.ch,hotel-rothorn.ch,+41 27 946 30 23,159,157
+Hotel Restaurant Bürchnerhof,Hotel de 3 estrellas,"Bürchen, Suiza","Ronalpstrasse 86, 3935 Bürchen, Suiza",info@buerchnerhof.ch,buerchnerhof.ch,+41 27 934 24 34,216,204
+Hotel-Restaurant Ronalp,Hotel de 3 estrellas,"Bürchen, Suiza","Ronalpstrasse 26, 3935 Bürchen, Suiza",info@ronalp.ch,ronalp.ch,+41 27 934 16 80,228,782
+Restaurant zum See / Pension Aaron,Restaurante · Posada informal junto al lago con desayuno gratuito,"Grächen, Suiza","Seestrasse 473, 3925 Grächen, Suiza",NO_EMAIL,zum-see.ch,+41 27 956 10 70,0,324
+Wellnesshotel & Spa Zurbriggen,Hotel de 4 estrellas alpino chic con piscina y spa,"Saas-Almagell, Suiza","Furusandstrasse 16, 3905 Saas-Almagell, Suiza",pirmin.zurbriggen@rhone.ch,wellnesshotel-zurbriggen.ch,+41 27 957 23 01,405,374
+Schweizerhof,Hotel de 4 estrellas exclusivo con spa y restaurante,"Saas-Almagell, Suiza","Furusandstrasse 16, 3905 Saas-Almagell, Suiza",pirmin.zurbriggen@rhone.ch,wellnesshotel-zurbriggen.ch,+41 27 957 23 01,405,237
+Matterhorn Inn,Hotel de 3 estrellas informal con restaurante y spa,"Zermatt, Suiza","Kantonsstrasse 171 3929 Täsch, Zermatt, Suiza",info@matterhorn-inn.com,matterhorn-inn.com,+41 27 966 26 44,196,923
+Hotel Restaurant Alpenblick,Hotel de 3 estrellas,"Zeneggen, Suiza","Bielweg 4, 3934 Zeneggen, Suiza",NO_EMAIL,alpenblickzeneggen.ch,+41 27 948 09 90,200,104
+Amber Ski-in-out Hotel & Spa,Hotel,"Saas-Fee, Suiza","Gletscherstrasse 2, 3906 Saas-Fee, Suiza",info@amberhotel.ch,amberhotel.ch,+41 27 530 06 68,182,90
+The Capra,Hotel de 5 estrellas,"Saas-Fee, Suiza","Lomattenstrasse 6, 3906 Saas-Fee, Suiza",NO_EMAIL,capra.ch,+41 27 958 13 58,336,317
+Hotel Alpenhof,Hotel de 3 estrellas,"Unterbäch, Suiza","Dorfstrasse 33, 3944 Unterbäch, Suiza",info@myalpenhof.ch,myalpenhof.ch,+41 27 934 58 58,185,177
+Hotel Olympia,Hotel de 3 estrellas,"Saas-Almagell, Suiza","Furusandstrasse 7, 3905 Saas-Almagell, Suiza",welcome@hotel-olympia.ch,hotel-olympia.ch,+41 27 957 16 76,158,149
+Hotel Bristol,Hotel de 3 estrellas alpino con bar restaurante,"Saas-Fee, Suiza","Dorfstrasse 60, 3906 Saas-Fee, Suiza",info@hotel-bristol-saas-fee.ch,hotel-bristol-saas-fee.ch,+41 27 958 12 12,187,133
+Hotel Central,Hotel,"Agarn, Suiza","Dorfstrasse 37, 3951 Agarn, Suiza",centralagarn@gmail.com,central-wallis.ch,+41 27 473 14 95,178,75
+wellnessHostel4000,Albergue,"Saas-Fee, Suiza","Panoramastrasse 1, 3906 Saas-Fee, Suiza",NO_EMAIL,youthhostel.ch,+41 27 958 50 50,203,380
+Wellness-Hotel Christiania,Hotel de 3 estrellas,"Saas-Almagell, Suiza","Talstrasse 93, 3905 Saas-Almagell, Suiza",hotel.christiania@bluewin.ch,hotel-christiania.ch,+41 27 957 28 63,258,62
+Pension & Restaurant Taverne,Pensión,"Grächen, Suiza",NO_ADDRESS,NO_EMAIL,gertrudstravelexperience.com,+41 27 956 15 40,0,55
+Hotel Walliserhof,Hotel de 3 estrellas,"Täsch, Suiza","Kantonsstrasse, 3929 Täsch, Suiza",info@taesch-walliserhof.ch,taesch-walliserhof.ch,+41 27 966 39 66,166,240
+Sporthotel Walliserhof Unterbäch AG,Hotel de 3 estrellas rural con vistas a la montaña,"Unterbäch, Suiza","Kantonsstrasse 2, 3944 Unterbäch, Suiza",info@sporthotel-walliserhof.ch,sporthotel-walliserhof.ch,+41 27 934 28 28,205,240
+Unterkunft,Hotel,"Grächen, Suiza",Reclamar esta empresa,NO_EMAIL,"Bellevue-Graechen.ch, Dorfstrasse, 3925 Grächen, Suiza",+41 27 956 33 30,0,2
+Klein Matterhorn,Hotel,"Randa, Suiza","Am Bahnhof 1, 3928 Randa, Suiza",hotelranda@gmail.com,hotel-klein-matterhorn.ch,+41 79 418 07 86,151,178
+Bildungshaus St. Jodern,Hotel,"Visp, Suiza","St. Jodernstrasse 17, 3930 Visp, Suiza",info@stjodern.ch,stjodern.ch,+41 27 946 74 74,206,53
+Hotel La Gorge & Restaurant Zer Schlucht,Hotel de 3 estrellas,"Saas-Fee, Suiza","Blomattenweg 2, 3906 Saas-Fee, Suiza",info@lagorge.ch,lagorge.ch,+41 27 958 16 80,257,394
+Maisonette-Gentiana,Alojamiento de autoservicio,"Grächen, Suiza","Maisonette Gentiana, 3925 Grächen, Suiza",NO_EMAIL,bregy-vreny.ch,+41 79 331 61 47,0,7
+Hotel Alpha,Hotel de 3 estrellas,"Saas-Grund, Suiza","Innere, Saastalstrasse, 3910 Saas-Grund, Suiza",NO_EMAIL,hotelalphasaas.ch,+41 27 957 20 06,215,263
+Hotel Alpenhof Hotel,Hotel de 3 estrellas informal con restaurante y saunas,"Saas-Almagell, Suiza","Talstrasse 91, 3905 Saas-Almagell, Suiza",office@hotelalpenhof.ch,hotelalpenhof.ch,+41 27 957 20 20,220,89
+Schlosshotel,Hotel,"Brig, Suiza","Spittelweg 3, 3900 Brig-Glis, Suiza",info@schlosshotel.ch,schlosshotel.ch,+41 27 922 95 95,159,385

@@ -1,0 +1,37 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Walliserhof Grand-Hotel & Spa Saas-Fee,Hotel de 5 estrellas exclusivo con spa y vistas al glaciar,"Saas-Fee, Suiza","Dorfweg 1, 3906 Saas-Fee, Suiza",info@walliserhof-saasfee.ch,walliserhof-saasfee.ch,+41 27 958 19 00,368,535
+Schweizerhof,Hotel de 4 estrellas exclusivo con spa y restaurante,"Saas-Fee, Suiza","Haltenstrasse 10, 3906 Saas-Fee, Suiza",info@schweizerhof-saasfee.ch,schweizerhof-saasfee.ch,+41 27 958 75 75,248,237
+The Capra,Hotel de 5 estrellas,"Saas-Fee, Suiza","Lomattenstrasse 6, 3906 Saas-Fee, Suiza",NO_EMAIL,capra.ch,+41 27 958 13 58,311,317
+Hotel Les Amis Saas-Fee,Hotel,"Saas-Fee, Suiza","Obere Dorfstrasse 15, 3906 Saas-Fee, Suiza",info@lesamis-saas-fee.ch,lesamis-saas-fee.ch,+41 27 530 50 15,167,90
+Hotel Bristol,Hotel de 3 estrellas alpino con bar restaurante,"Saas-Fee, Suiza","Dorfstrasse 60, 3906 Saas-Fee, Suiza",info@hotel-bristol-saas-fee.ch,hotel-bristol-saas-fee.ch,+41 27 958 12 12,187,133
+Amber Ski-in-out Hotel & Spa,Hotel,"Saas-Fee, Suiza","Gletscherstrasse 2, 3906 Saas-Fee, Suiza",info@amberhotel.ch,amberhotel.ch,+41 27 530 06 68,182,90
+wellnessHostel4000,Albergue,"Saas-Fee, Suiza","Panoramastrasse 1, 3906 Saas-Fee, Suiza",NO_EMAIL,youthhostel.ch,+41 27 958 50 50,203,380
+Hotel Alpin,Hotel de 3 estrellas,"Saas-Fee, Suiza","Mischistrasse 18, 3906 Saas-Fee, Suiza",NO_EMAIL,hotel-alpin.ch,+41 27 957 15 77,180,99
+Hotel La Gorge & Restaurant Zer Schlucht,Hotel de 3 estrellas,"Saas-Fee, Suiza","Blomattenweg 2, 3906 Saas-Fee, Suiza",info@lagorge.ch,lagorge.ch,+41 27 958 16 80,257,394
+Hotel-Garni Jägerhof,Hotel de 3 estrellas tranquilo con restaurante y spa,"Saas-Fee, Suiza","Obere G. 16, 3906 Saas-Fee, Suiza",info@hotel-jaegerhof.ch,hotel-jaegerhof.ch,+41 27 957 13 10,255,106
+Hotel Olympia,Hotel de 3 estrellas,"Saas-Almagell, Suiza","Furusandstrasse 7, 3905 Saas-Almagell, Suiza",welcome@hotel-olympia.ch,hotel-olympia.ch,+41 27 957 16 76,158,149
+Hotel Christiania,Hotel de 3 estrellas,"Saas-Fee, Suiza","Dorfstrasse 21, 3906 Saas-Fee, Suiza",info@hotelchristiania.ch,hotelchristiania.ch,+41 27 957 31 66,230,126
+Hotel Eden,Hotel de 3 estrellas,"Saas-Fee, Suiza","Wildistrasse 7, 3906 Saas-Fee, Suiza",NO_EMAIL,eden-arcade.ch,+41 27 958 18 18,215,36
+Wellness-Hotel Christiania,Hotel de 3 estrellas,"Saas-Almagell, Suiza","Talstrasse 93, 3905 Saas-Almagell, Suiza",hotel.christiania@bluewin.ch,hotel-christiania.ch,+41 27 957 28 63,258,62
+Wellnesshotel & Spa Zurbriggen,Hotel de 4 estrellas alpino chic con piscina y spa,"Saas-Almagell, Suiza","Furusandstrasse 16, 3905 Saas-Almagell, Suiza",pirmin.zurbriggen@rhone.ch,wellnesshotel-zurbriggen.ch,+41 27 957 23 01,405,374
+Hotel Alpha,Hotel de 3 estrellas,"Saas-Grund, Suiza","Innere, Saastalstrasse, 3910 Saas-Grund, Suiza",NO_EMAIL,hotelalphasaas.ch,+41 27 957 20 06,215,263
+Haus Alfa,Hotel,"Saas-Fee, Suiza","Parkstrasse 23, 3909 Saas-Fee, Suiza",info@saasholidays.com,saasholidays.com,+41 27 957 39 96,178,65
+Feehof-Garni und Ferienwohnungen,Hotel de 3 estrellas,"Saas-Fee, Suiza","Dorfstrasse 28, 3906 Saas-Fee, Suiza",info@feehof.ch,feehof.ch,+41 27 958 66 88,221,85
+Hotel Alpenhof Hotel,Hotel de 3 estrellas informal con restaurante y saunas,"Saas-Almagell, Suiza","Talstrasse 91, 3905 Saas-Almagell, Suiza",office@hotelalpenhof.ch,hotelalpenhof.ch,+41 27 957 20 20,220,89
+Guesthouse Berggeist,Hotel,"Saas-Fee, Suiza","Obere Dorfstrasse 40, 3906 Saas-Fee, Suiza",info@lesamis-saas-fee.ch,berggeist-saas-fee.ch,+41 27 530 50 15,162,1
+Hotel Adler AG,Hotel,"Saas-Grund, Suiza","Bodmenstrasse 206, 3910 Saas-Grund, Suiza",info@hoteladler.ch,hoteladler.ch,+41 27 957 28 45,207,56
+Hotel Monte Moro,Hotel de 3 estrellas,"Saas-Almagell, Suiza","Talstrasse 129, 3905 Saas-Almagell, Suiza",info@monte-moro.ch,monte-moro.ch,+41 27 957 10 12,204,98
+Hotel-Restaurant Primavera AG,Hotel,"Saas-Grund, Suiza","Seilbahnstrasse 19, 3910 Saas-Grund, Suiza",info@hotelprimavera.ch,hotelprimavera.ch,+41 27 957 17 88,162,37
+Haus Astoria,Alojamiento en interiores,NO_CITY,"Saastalstrasse 231, 3910 Saas-Grund, Suiza",NO_EMAIL,hausastoria.traveleto.com,NO_PHONE,158,13
+Chalet Pickelschmiede,Hotel,"Saas-Balen, Suiza",NO_ADDRESS,info@saasholidays.com,saasholidays.com,+41 27 957 39 96,154,12
+Hotel Europa,"Hotel con spa, restaurante y bar","Saas-Fee, Suiza","Hannigstrasse 41, 3906 Saas-Fee, Suiza",info@europa-saasfee.ch,europa-saasfee.ch,+41 27 958 96 00,0,221
+Hotel Marmotte,Hotel de 3 estrellas de montaña con restaurante rústico,"Saas-Fee, Suiza","Hannigstrasse 47, 3906 Saas-Fee, Suiza",info@hotelmarmotte.ch,hotelmarmotte.ch,+41 27 957 00 22,0,196
+Park-Hotel,Hotel de 3 estrellas,"Saas-Fee, Suiza","Bielmattweg 1, 3906 Saas-Fee, Suiza",info@parkhotel-saas-fee.ch,parkhotel-saas-fee.ch,+41 27 958 19 90,0,190
+Restaurant Zur Mühle Bed and Breakfast,Hotel pintoresco con vistas a la montaña,"Saas-Fee, Suiza","Dorfstrasse 61, 3906 Saas-Fee, Suiza",info@zurmuehle-saas-fee.ch,zurmuehle-saas-fee.ch,+41 27 957 26 76,0,496
+Hotel Artemis,Hotel familiar con guardaesquís,"Saas-Fee, Suiza","Hannigasse 1, 3906 Saas-Fee, Suiza",eben@eyebytes.com,artemishotel.ch,+41 27 957 32 01,0,78
+The Larix Hotel & Restaurant,Hotel de 3 estrellas,"Saas-Fee, Suiza","Gletscherstrasse 14, 3906 Saas-Fee, Suiza",info@the-larix.ch,the-larix.ch,+41 27 958 64 64,0,240
+Hotel La Collina,Hotel informal con salón rústico,"Saas-Fee, Suiza","Hügelweg 1, 3906 Saas-Fee, Suiza",info@lacollina.ch,lacollina.ch,+41 27 957 19 38,0,140
+Hotel du Glacier AG,Hotel,"Saas-Fee, Suiza","Blomattenstrasse 2, 3906 Saas-Fee, Suiza",info@duglacier.ch,du-glacier.saas-fee-hotels.com,+41 27 958 16 00,0,69
+Hotel Ambiente,Hotel de 3 estrellas,"Saas-Fee, Suiza","Mischistrasse 45, 3906 Saas-Fee, Suiza",info@hotel-ambiente.ch,hotel-ambiente.ch,+41 27 958 91 10,0,121
+Boutique Lodge Spycher,Bed & Breakfast,"Saas-Fee, Suiza","Hanniggasse 10, Hanniggasse 10, 3906 Saas-Fee, Suiza",NO_EMAIL,boutiquelodge.ch,+41 27 957 41 70,0,48
+Waldhotel Fletschhorn,"Hotel de 4 estrellas, spa y habitaciones minimalistas","Saas-Fee, Suiza","Wildistrasse 64, 3906 Saas-Fee, Suiza",booking@fletschhorn.ch,fletschhorn.ch,+41 27 957 21 31,0,97

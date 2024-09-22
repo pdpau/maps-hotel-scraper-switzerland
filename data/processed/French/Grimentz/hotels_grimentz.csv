@@ -1,0 +1,21 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Hôtel-Restaurant de Moiry,Hotel de 3 estrellas,"Grimentz, Suiza","Rue du Village 24, 3961 Grimentz, Suiza",info@hotel-grimentz.ch,hotel-grimentz.ch,+41 27 475 11 44,136,480
+Hôtel Cristal,Hotel,"Grimentz, Suiza","Rte de Moiry 64, 3961 Grimentz, Suiza",NO_EMAIL,cristal-grimentz.ch,+41 27 475 43 06,166,182
+Hôtel - Restaurant Alpina,Hotel,"Grimentz, Suiza","Rte des Amis de la Nature 12, 3961 Grimentz, Suiza",NO_EMAIL,alpina-grimentz.com,+41 27 476 16 16,0,413
+Hôtel - Restaurant La Pointe de Zinal,Hotel,"Zinal, Anniviers, Suiza","Route des Cinq 4000 15, 3961 Zinal, Suiza",NO_EMAIL,lapointedezinal.ch,+41 27 475 11 64,155,169
+Hôtel-Restaurant Mélèze,Hotel de 3 estrellas,"Grimentz, Suiza","Rte de Moiry 22, 3961 Grimentz, Suiza",info@hotel-meleze.ch,hotel-meleze.ch,+41 27 475 12 87,0,144
+Hôtel Les Becs-de-Bosson,Hotel,"Grimentz, Suiza","Fam. Rion -Genoud, Rue du Village 2, 3961 Grimentz, Suiza",becs-de-bosson@netplus.ch,becsdebosson.ch,+41 27 475 19 79,0,163
+Grand Hôtel du Cervin,Hotel informal con vistas a la montaña,"Saint-Luc, Suiza","Rue du Cervin 29, 3961 Saint-Luc, Suiza",info@grandhotelducervin.ch,grandhotelducervin.ch,+41 27 475 20 00,124,92
+Hôtel Bella Tola et Saint-Luc SPA,Hotel de 4 estrellas,"Saint-Luc, Suiza","Rte Principale 8, 3961 Saint-Luc, Suiza",info@bellatola.ch,bellatola.ch,+41 27 475 14 44,226,392
+Hotel Grand Chalet Favre,Hotel con restaurante en un valle,"Saint-Luc, Suiza","Pl. de l'Église 8, 3961 Saint-Luc, Suiza",info@grandchaletfavre.ch,grandchaletfavre.ch,+41 27 475 11 28,154,161
+Chalet Vieux Mélèze,Alojamiento con servicio,"Saint-Luc, Suiza","Pl. de l'Église 8, 3961 Saint-Luc, Suiza",info@grandchaletfavre.ch,grandchaletfavre.ch,+41 27 475 11 28,154,9
+Hôtel - Restaurant Europe,Hotel,"Zinal, Anniviers, Suiza","Rue des Cinq 4000, 3961 Zinal, Suiza",NO_EMAIL,europezinal.ch,+41 27 475 44 04,198,329
+Pension de la poste,Hotel,"Zinal, Anniviers, Suiza","Hôtel familiale de troisième génération Familles Bonnard-Chevallaz, Rue Montferrier 29, 3961 Zinal, Suiza",NO_EMAIL,lapostezinal.ch,+41 27 475 11 87,158,144
+Hôtel - Restaurant Le Besso,Hotel,"Zinal, Anniviers, Suiza","Rue des Cinq 4000, 3961 Zinal, Suiza",NO_EMAIL,le-besso.ch,+41 27 475 31 65,144,187
+Relais des Mélèzes,Restaurante,"Vissoie, Suiza","Rue du Château 1, 3961 Vissoie, Suiza",NO_EMAIL,relaism.ch,+41 27 475 13 15,160,139
+Hôtel-restaurant Le Beausite,Hotel de 3 estrellas,"Saint-Luc, Suiza","Rte Principale 27, 3961 Saint-Luc, Suiza",anniviers@lebeausite.ch,lebeausite.ch,+41 27 475 15 86,177,147
+Hôtel - Restaurant Les Bouquetins,Hotel,"Zinal, Anniviers, Suiza","Pétérey 2, 3961 Zinal, Suiza",NO_EMAIL,valdanniviers.ch,+41 27 475 25 09,187,111
+Hôtel Restaurant Eden,Restaurante,"Evolène, Suiza","Rte Principale 114, 1983 Evolène, Suiza",info@edenalp.ch,edenalp.ch,+41 27 283 18 18,103,116
+Hôtel Weisshorn,Hotel,"Saint-Luc, Suiza",NO_ADDRESS,NO_EMAIL,weisshorn.ch,+41 27 475 11 06,335,474
+"Grand Hôtel & Kurhaus, Arolla",Hotel de 3 estrellas,"Evolène, Suiza","Route de la Forêt 6, 1986 Evolène, Suiza",NO_EMAIL,grandhotelkurhaus.com,+41 27 283 70 00,121,372
+Hôtel Chalet Royal Veysonnaz,Hôtel bien-êtreHotel tranquilo con spa y restaurante,"Veysonnaz, Suiza","Rte de Magrappé 49, 1993 Veysonnaz, Suiza",events@chaletroyal-magrappe.ch,chaletroyal.ch,+41 27 208 56 44,83,465

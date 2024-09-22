@@ -1,0 +1,40 @@
+name,category,city,address,email,website,phone,price,n_reviews
+Gstaaderhof,Hotel de 4 estrellas,"Gstaad, Saanen, Suiza","Lauenenstrasse 19, 3780 Gstaad, Suiza",info@gstaaderhof.ch,gstaaderhof.ch,+41 33 748 63 63,204,483
+Le Grand Bellevue,Hotel de 5 estrellas premium de alta cocina y spa,"Gstaad, Saanen, Suiza","Untergstaadstrasse 17, 3780 Gstaad, Suiza",NO_EMAIL,bellevue-gstaad.ch,+41 33 748 00 00,582,508
+HUUS Gstaad Hotel,Hotel de 4 estrellas,"Saanen, Suiza","Schönriedstrasse 74, 3792 Saanen, Suiza",welcome@huusgstaad.com,huusgstaad.com,+41 33 748 04 04,283,856
+Hotel Alphorn Gstaad GmbH,Hotel de 3 estrellas exclusivo con restaurante refinado,"Gstaad, Saanen, Suiza","Gsteigstrasse 51, 3780 Gstaad, Suiza",office@alphorn-gstaad.ch,alphorn-gstaad.ch,+41 33 748 45 45,236,248
+Hotel-Restaurant Arc-en-ciel,Hotel de 4 estrellas exclusivo de estilo rústico,"Gstaad, Saanen, Suiza","Egglistrasse 24, 3780 Gstaad, Suiza",NO_EMAIL,arc-en-ciel.ch,+41 33 748 43 43,234,1109
+Hotel Le Grand Chalet,Hotel de 4 estrellas,"Gstaad, Saanen, Suiza","Neueretstrasse 43, 3780 Gstaad, Suiza",NO_EMAIL,grandchalet.ch,+41 33 748 76 76,360,66
+Sport-Hotel Victoria,Hotel de 3 estrellas,"Gstaad, Saanen, Suiza","Promenade 72, 3780 Gstaad, Suiza",NO_EMAIL,victoria-gstaad.ch,+41 33 748 44 22,295,306
+Rössli,Hotel de 3 estrellas,"Gstaad, Saanen, Suiza","Promenade 10, 3780 Gstaad, Suiza",NO_EMAIL,posthotelroessli.ch,+41 33 748 42 42,241,519
+Ermitage Wellness & Spa Hotel,Hotel de 5 estrellas amplio con saunas y 2 piscinas,"Gstaad, Saanen, Suiza","Dorfstrasse 46, 3778 Gstaad, Suiza",welcome@ermitage.ch,ermitage.ch,+41 33 748 04 30,549,716
+Gstaad Palace,Hotel de 5 estrellas,"Gstaad, Saanen, Suiza","Palacestrasse 28, 3780 Gstaad, Suiza",NO_EMAIL,palace.ch,+41 33 748 50 00,0,842
+The Mansard,Hotel,"Gstaad, Saanen, Suiza","Untergstaadstrasse 26, 3780 Gstaad, Suiza",NO_EMAIL,the-mansard.ch,+41 33 748 40 00,387,13
+Jugendherberge Gstaad Saanenland,Jugendherberge,"Saanen, Suiza","Spitzhornweg 25, 3792 Saanen, Suiza",NO_EMAIL,youthhostel.ch,+41 33 744 13 43,110,235
+Bellerive Hotel,Hotel de 3 estrellas,"Gstaad, Saanen, Suiza","Bellerivestrasse 42, 3780 Gstaad, Suiza",info@bellerive-gstaad.ch,bellerive-gstaad.ch,+41 33 748 88 33,266,106
+Hotel Spitzhorn,Hotel de 3 estrellas,"Saanen, Suiza","Spitzhornweg 30, 3792 Saanen, Suiza",NO_EMAIL,spitzhorn.ch,+41 33 748 41 41,270,360
+Kernen,Hotel de 3 estrellas · ,"Schönried, Saanen, Suiza","Dorfstrasse 58, 3778 Schönried, Suiza",NO_EMAIL,hotel-kernen.ch,+41 33 748 40 20,201,611
+Gstaad - Swiss Hotel Apartments,Hotel,"Saanen, Suiza","Egglistrasse 23, 3780 Saanen, Suiza",hello@swisshotelapartments.ch,swisshotelapartments.ch,+41 58 261 99 99,1825,0
+Boutique-Hotel Alpenrose,Hotel de 4 estrellas,"Schönried, Saanen, Suiza","Dorfstrasse 14, 3778 Schönried, Suiza",NO_EMAIL,hotelalpenrose.ch,+41 33 748 91 91,282,137
+Hotel des Alpes by Bruno Kernen,Hotel de 3 estrellas,"Saanenmöser, Saanen, Suiza","Saanenmöserstrasse 168, 3777 Saanenmöser, Suiza",NO_EMAIL,desalpes.ch,+41 33 748 04 50,222,70
+Hotel Landhaus,Hotel de 3 estrellas,"Saanen, Suiza","Dorfstrasse 74, 3792 Saanen, Suiza",info@landhaus-saanen.ch,landhaus-saanen.ch,+41 33 748 40 40,203,367
+Hotel Alpine Lodge,Hotel,"Saanen, Suiza","Wyssmülleriweg 10, 3792 Saanen, Suiza",info@landhaus-saanen.ch,alpinelodge.ch,+41 33 748 41 51,0,108
+Hotel Olden,Hotel de 4 estrellas boutique lujoso con alta cocina,"Gstaad, Saanen, Suiza","Promenade 35, 3780 Gstaad, Suiza",info@hotelolden.com,hotelolden.com,+41 33 748 49 50,0,169
+Hotel Alpenland,Hotel de 3 estrellas,"Saanen, Suiza","Hinterseestrasse 5 3782 Lauenen, Saanen, Suiza",hotel@alpenland.ch,alpenland.ch,+41 33 765 55 66,288,456
+Pension B&B Panorama Lauenen,Residencia,"Lauenen, Suiza","Lauenenstrasse 5, 3782 Lauenen, Suiza",info@panorama-lauenen.ch,panorama-lauenen.ch,+41 33 765 31 69,131,50
+Sanetsch Hotel,Hotel,"Gsteig bei Gstaad, Suiza","Gsteigstrasse 8, 3785 Gsteig, Suiza",info@sanetsch-hotel.ch,sanetsch-hotel.ch,+41 33 755 10 00,218,52
+Dinh Residence Hotel,Hotel,"Zweisimmen, Suiza","Saanenstrasse 4, 3770 Zweisimmen, Suiza",NO_EMAIL,dinhresidence.com,+41 33 722 00 51,169,73
+Hotel Restaurant Hornfluh,Hotel,"Saanenmöser, Saanen, Suiza","Hornbergstrasse 45, 3777 Saanenmöser, Suiza",info@hotel-hornfluh.ch,hotel-hornfluh.ch,+41 33 748 84 84,0,423
+Hotel Le Petit Relais,Hotel de 2 estrellas,"Saanenmöser, Saanen, Suiza","Alte Str. 8, 3777 Saanenmöser, Suiza",info@lepetitrelais.ch,lepetitrelais.ch,+41 33 744 35 65,0,56
+The Alpina Gstaad,Hotel de 5 estrellasCerrado temporalmente,"Gstaad, Saanen, Suiza","Alpinastrasse 23, 3780 Gstaad, Suiza",info@thealpinagstaad.ch,thealpinagstaad.ch,+41 33 888 98 88,0,495
+La Sarine,Chalet,"Gstaad, Saanen, Suiza","Egglistrasse 35, 3780 Gstaad, Suiza",customercare@localsearch.ch,yellow.local.ch,+41 33 744 37 83,0,2
+Chalet Aebnetbode,Chalet,NO_CITY,"Bellerivestrasse 27, 3780 Gstaad, Suiza",NO_EMAIL,aebnetbode.tripcombined.com,NO_PHONE,0,3
+Chalet Meielblick Ferienwohnung,Hotel,NO_CITY,"Pfyffeneggweg 39, 3792 Saanen, Suiza",NO_EMAIL,chalet.myswitzerland.com,NO_PHONE,0,4
+Berghotel Hornberg,Restaurante,"Saanenmöser, Saanen, Suiza","Hornbergstrasse 43, 3777 Saanenmöser, Suiza",berghaus.hornberg@bluewin.ch,berghotelhornberg.ch,+41 33 744 13 65,0,220
+Park Gstaad,Hotel de 5 estrellasCerrado temporalmente,"Gstaad, Saanen, Suiza","Wispilenstrasse 29, 3780 Gstaad, Suiza",NO_EMAIL,parkgstaad.ch,+41 33 748 98 00,0,298
+Lovell Mountain Lodge Summer and Winter Camps and Hostel,Campamento educativo · ,"Schönried, Saanen, Suiza","Hubelstrasse 88, 3778 Schönried, Suiza",info@lovellcamps.ch.,lovellcamps.ch,+41 33 744 25 35,0,22
+Chalberhöni Waldmatte,Restaurante,"Saanen, Suiza","Chalberhönistrasse 88, 3792 Saanen, Suiza",NO_EMAIL,restaurant-waldmatte.ch,+41 33 744 25 84,0,153
+Ultima Gstaad,Hotel de 5 estrellasCerrado temporalmente,"Gstaad, Saanen, Suiza","Gsteigstrasse 70, 3780 Gstaad, Suiza",reservation@ultimamanagement.com,ultimacollection.com,+41 33 748 05 50,0,66
+Ferienwohnung Saali,Privatunterkunft,"Schönried, Saanen, Suiza","Saaliweg 9, 3778 Schönried, Suiza",NO_EMAIL,ferienwohnung-schoenried.ch,+41 31 859 01 07,0,1
+Chalet Weidhus,Chalet,"Saanen, Suiza","Bergmattenweg 4, 3777 Saanen, Suiza",bookings@weidhus.ch,weidhus.ch,NO_PHONE,0,3
+Chalet Sonnenfreude,Chalet,"Saanen, Suiza","Saanenmöserstrasse 31, 3778 Saanen, Suiza",NO_EMAIL,schonried.com,+41 33 744 15 64,0,2
