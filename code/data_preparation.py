@@ -8,6 +8,7 @@ import pandas as pd
 # 1. --- Import data and create a dataframe ---
 city = sys.argv[1]
 csv_path = f"../data/raw/{city}/hotels in {city.lower()} with emails.csv"
+#csv_path = f"../data/raw/{city}/ski resorts {city.lower()} with emails.csv"
 input_csv = pd.read_csv(csv_path, sep=",")
 
 
@@ -22,7 +23,8 @@ main_df["n_reviews"] = main_df["n_reviews"].str.replace(".0", "").str.replace("n
 main_df["price"] = main_df["price"].str.replace("€", "").str.replace("nan", "0").astype(int)
 
 # 2.2 Drop hotels with no email
-no_emails_out = main_df[~main_df["email"].apply(lambda x: x in ["nan"])] # Don't delete the hotels with NO_EMAIL
+#no_emails_out = main_df[~main_df["email"].apply(lambda x: x in ["nan"])] # Don't delete the hotels with NO_EMAIL
+no_emails_out = main_df.copy()
 
 # 2.3 Drop duplicate hotels
 no_duplicates = no_emails_out.drop_duplicates()
